@@ -1,0 +1,36 @@
+// Function to extract Pokemon name and typings
+function extractPokemonInfo(pokemonInfoDiv) {
+    const name = pokemonInfoDiv.querySelector('h5').textContent;
+
+    const abilities = [];
+    pokemonInfoDiv.querySelectorAll('.abilities span').forEach(ability => {
+        abilities.push(ability.textContent);
+    });
+
+    return { name, abilities };
+}
+
+// Array to store extracted information
+const pokemonData = [];
+
+// Iterate over all Pokemon info divs on the page
+document.querySelectorAll('.pokemon-info').forEach(pokemonInfoDiv => {
+    const extractedInfo = extractPokemonInfo(pokemonInfoDiv);
+    pokemonData.push(extractedInfo);
+});
+
+// Convert the data to CSV format
+const csvContent = 'data:text/csv;charset=utf-8,';
+pokemonData.forEach(pokemon => {
+    csvContent += `${pokemon.name},${pokemon.abilities.join(',')}\n`;
+});
+
+// Create a download link for the CSV file
+const encodedUri = encodeURI(csvContent);
+const link = document.createElement('a');
+link.setAttribute('href', encodedUri);
+link.setAttribute('download', 'pokemon_data.csv');
+document.body.appendChild(link);
+
+// Trigger the download
+link.click();

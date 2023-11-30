@@ -1,0 +1,1291 @@
+Dex Number,Name,HP,Attack,Defense,Special Attack,Special Defense,Speed,Weight,Height,Primary Type,Secondary Type,Abilities,Formats
+1,Bulbasaur,45,49,49,65,65,45,6.9,0.7,Grass,Poison,"Overgrow, Chlorophyll",National Dex
+10,Caterpie,45,30,35,20,20,45,2.9,0.3,Bug,NA,"Shield Dust, Run Away",National Dex
+100,Voltorb,40,30,50,55,55,100,10.4,0.5,Electric,NA,"Soundproof, Static, Aftermath",LC
+102,Voltorb-Hisui,40,30,50,55,55,100,13,0.5,Electric,Grass,"Soundproof, Static, Aftermath",LC
+1000,Gholdengo,87,60,95,133,91,84,30,1.2,Steel,Ghost,Good as Gold,OU
+1001,Wo-Chien,85,85,100,95,135,70,74.2,1.5,Dark,Grass,Tablets of Ruin,RU
+1002,Chien-Pao,80,120,80,90,65,135,152.2,1.9,Dark,Ice,Sword of Ruin,Uber
+1003,Ting-Lu,155,110,125,55,80,45,699.7,2.7,Dark,Ground,Vessel of Ruin,OU
+1004,Chi-Yu,55,80,80,135,120,100,4.9,0.4,Dark,Fire,Beads of Ruin,Uber
+1005,Roaring Moon,105,139,71,55,101,119,380,2,Dragon,Dark,Protosynthesis,Uber
+1006,Iron Valiant,74,130,90,120,60,116,35,1.4,Fairy,Fighting,Quark Drive,OU
+1007,Koraidon,100,135,115,85,100,135,303,2.5,Fighting,Dragon,Orichalcum Pulse,Uber
+1008,Miraidon,100,85,100,135,115,135,240,3.5,Electric,Dragon,Hadron Engine,Uber
+1009,Walking Wake,99,83,91,125,83,109,280,3.5,Water,Dragon,Protosynthesis,OU
+101,Electrode,60,50,70,80,80,150,66.6,1.2,Electric,NA,"Soundproof, Static, Aftermath",PU
+101,Electrode-Hisui,60,50,70,80,80,150,71,1.2,Electric,Grass,"Soundproof, Static, Aftermath",NU
+1010,Iron Leaves,90,130,88,70,108,104,125,1.5,Grass,Psychic,Quark Drive,RUBL
+1011,Dipplin,80,80,110,95,80,40,4.4,0.4,Grass,Dragon,"Supersweet Syrup, Gluttony, Sticky Hold",RU
+1012,Poltchageist,40,45,45,74,54,50,1.1,0.1,Grass,Ghost,"Hospitality, Heatproof",LC
+1012,Poltchageist-Artisan,40,45,45,74,54,50,1.1,0.1,Grass,Ghost,"Hospitality, Heatproof",LC
+1013,Sinistcha,71,60,106,121,80,70,2.2,0.2,Grass,Ghost,"Hospitality, Heatproof",UU
+1013,Sinistcha-Masterpiece,71,60,106,121,80,70,2.2,0.2,Grass,Ghost,"Hospitality, Heatproof",UU
+1014,Okidogi,88,128,115,58,86,80,92,1.8,Poison,Fighting,"Toxic Chain, Guard Dog",UU
+1015,Munkidori,88,75,66,130,90,106,12.2,1,Poison,Psychic,"Toxic Chain, Frisk",UU
+1016,Fezandipiti,88,91,82,70,125,99,30.1,1.4,Poison,Fairy,"Toxic Chain, Technician",RU
+1017,Ogerpon,80,120,84,60,96,110,39.8,1.2,Grass,NA,Defiant,UU
+1017,Ogerpon-Cornerstone,80,120,84,60,96,110,39.8,1.2,Grass,Rock,Sturdy,OU
+1017,Ogerpon-Hearthflame,80,120,84,60,96,110,39.8,1.2,Grass,Fire,Mold Breaker,Uber
+1017,Ogerpon-Wellspring,80,120,84,60,96,110,39.8,1.2,Grass,Water,Water Absorb,OU
+102,Exeggcute,60,40,80,60,45,40,2.5,0.4,Grass,Psychic,"Chlorophyll, Harvest",National Dex
+103,Exeggutor,95,95,85,125,75,55,120,2,Grass,Psychic,"Chlorophyll, Harvest",National Dex
+103,Exeggutor-Alola,95,105,85,125,75,45,415.6,10.9,Grass,Dragon,"Frisk, Harvest",National Dex
+104,Cubone,50,50,95,40,50,35,6.5,0.4,Ground,NA,"Rock Head, Lightning Rod, Battle Armor",National Dex
+105,Marowak,60,80,110,50,80,45,45,1,Ground,NA,"Rock Head, Lightning Rod, Battle Armor",National Dex
+105,Marowak-Alola,60,80,110,50,80,45,34,1,Fire,Ghost,"Cursed Body, Lightning Rod, Rock Head",National Dex
+105,Marowak-Alola-Totem,60,80,110,50,80,45,98,1.7,Fire,Ghost,Rock Head,National Dex
+106,Hitmonlee,50,120,53,35,110,87,49.8,1.5,Fighting,NA,"Limber, Reckless, Unburden",National Dex
+107,Hitmonchan,50,105,79,35,110,76,50.2,1.4,Fighting,NA,"Keen Eye, Iron Fist, Inner Focus",National Dex
+108,Lickitung,90,55,75,60,75,30,65.5,1.2,Normal,NA,"Own Tempo, Oblivious, Cloud Nine",National Dex
+109,Koffing,40,65,95,60,45,35,1,0.6,Poison,NA,"Levitate, Neutralizing Gas, Stench",LC
+11,Metapod,50,20,55,25,25,30,9.9,0.7,Bug,NA,Shed Skin,National Dex
+110,Weezing,65,90,120,85,70,60,9.5,1.2,Poison,NA,"Levitate, Neutralizing Gas, Stench",PU
+110,Weezing-Galar,65,90,120,85,70,60,16,3,Poison,Fairy,"Levitate, Neutralizing Gas, Misty Surge",UU
+111,Rhyhorn,80,85,95,30,30,25,115,1,Ground,Rock,"Lightning Rod, Rock Head, Reckless",National Dex
+112,Rhydon,105,130,120,45,45,40,120,1.9,Ground,Rock,"Lightning Rod, Rock Head, Reckless",National Dex
+113,Chansey,250,5,5,35,105,50,34.6,1.1,Normal,NA,"Natural Cure, Serene Grace, Healer",PU
+114,Tangela,65,55,115,100,40,60,35,1,Grass,NA,"Chlorophyll, Leaf Guard, Regenerator",National Dex
+115,Kangaskhan,105,95,80,40,80,90,80,2.2,Normal,NA,"Early Bird, Scrappy, Inner Focus",National Dex
+116,Horsea,30,40,70,70,25,60,8,0.4,Water,NA,"Swift Swim, Sniper, Damp",National Dex
+117,Seadra,55,65,95,95,45,85,25,1.2,Water,NA,"Poison Point, Sniper, Damp",National Dex
+118,Goldeen,45,67,60,35,50,63,15,0.6,Water,NA,"Swift Swim, Water Veil, Lightning Rod",National Dex
+119,Seaking,80,92,65,65,80,68,39,1.3,Water,NA,"Swift Swim, Water Veil, Lightning Rod",National Dex
+12,Butterfree,60,45,50,90,80,70,32,1.1,Bug,Flying,"Compound Eyes, Tinted Lens",National Dex
+120,Staryu,30,45,55,70,55,85,34.5,0.8,Water,NA,"Illuminate, Natural Cure, Analytic",National Dex
+121,Starmie,60,75,85,100,85,115,80,1.1,Water,Psychic,"Illuminate, Natural Cure, Analytic",National Dex
+122,Mr. Mime,40,45,65,100,120,90,54.5,1.3,Psychic,Fairy,"Soundproof, Filter, Technician",National Dex
+122,Mr. Mime-Galar,50,65,65,90,90,100,56.8,1.4,Ice,Psychic,"Vital Spirit, Screen Cleaner, Ice Body",National Dex
+123,Scyther,70,110,80,55,80,105,56,1.5,Bug,Flying,"Swarm, Technician, Steadfast",NU
+124,Jynx,65,50,35,115,95,95,40.6,1.4,Ice,Psychic,"Oblivious, Forewarn, Dry Skin",National Dex
+125,Electabuzz,65,83,57,95,85,105,30,1.1,Electric,NA,"Static, Vital Spirit",National Dex
+126,Magmar,65,95,57,100,85,93,44.5,1.3,Fire,NA,"Flame Body, Vital Spirit",National Dex
+127,Pinsir,65,125,100,55,70,85,55,1.5,Bug,NA,"Hyper Cutter, Mold Breaker, Moxie",National Dex
+128,Tauros,75,100,95,40,70,110,88.4,1.4,Normal,NA,"Intimidate, Anger Point, Sheer Force",PU
+128,Tauros-Paldea-Aqua,75,110,105,30,70,100,110,1.4,Fighting,Water,"Intimidate, Anger Point, Cud Chew",RU
+128,Tauros-Paldea-Blaze,75,110,105,30,70,100,85,1.4,Fighting,Fire,"Intimidate, Anger Point, Cud Chew",NU
+128,Tauros-Paldea-Combat,75,110,105,30,70,100,115,1.4,Fighting,NA,"Intimidate, Anger Point, Cud Chew",PU
+129,Magikarp,20,10,55,15,20,80,10,0.9,Water,NA,"Swift Swim, Rattled",LC
+13,Weedle,40,35,30,20,20,50,3.2,0.3,Bug,Poison,"Shield Dust, Run Away",National Dex
+130,Gyarados,95,125,79,60,100,81,235,6.5,Water,Flying,"Intimidate, Moxie",RUBL
+131,Lapras,130,85,80,85,95,60,220,2.5,Water,Ice,"Water Absorb, Shell Armor, Hydration",National Dex
+132,Ditto,48,48,48,48,48,48,4,0.3,Normal,NA,"Limber, Imposter",Untiered
+133,Eevee,55,55,50,45,65,55,6.5,0.3,Normal,NA,"Run Away, Adaptability, Anticipation",LC
+133,Eevee-Starter,65,75,70,65,85,75,6.5,0.3,Normal,NA,"Run Away, Adaptability, Anticipation",National Dex
+134,Vaporeon,130,65,60,110,95,65,29,1,Water,NA,"Water Absorb, Hydration",RU
+135,Jolteon,65,65,60,110,95,130,24.5,0.8,Electric,NA,"Volt Absorb, Quick Feet",NU
+136,Flareon,65,130,60,95,110,65,25,0.9,Fire,NA,"Flash Fire, Guts",Untiered
+137,Porygon,65,60,70,85,75,40,36.5,0.8,Normal,NA,"Trace, Download, Analytic",National Dex
+138,Omanyte,35,40,100,90,55,35,7.5,0.4,Rock,Water,"Swift Swim, Shell Armor, Weak Armor",National Dex
+139,Omastar,70,60,125,115,70,55,35,1,Rock,Water,"Swift Swim, Shell Armor, Weak Armor",National Dex
+14,Kakuna,45,25,50,25,25,35,10,0.6,Bug,Poison,Shed Skin,National Dex
+140,Kabuto,30,80,90,55,45,55,11.5,0.5,Rock,Water,"Swift Swim, Battle Armor, Weak Armor",National Dex
+141,Kabutops,60,115,105,65,70,80,40.5,1.3,Rock,Water,"Swift Swim, Battle Armor, Weak Armor",National Dex
+142,Aerodactyl,80,105,65,60,75,130,59,1.8,Rock,Flying,"Rock Head, Pressure, Unnerve",National Dex
+143,Snorlax,160,110,65,65,110,30,460,2.1,Normal,NA,"Immunity, Thick Fat, Gluttony",NUBL
+144,Articuno,90,85,100,95,125,85,55.4,1.7,Ice,Flying,"Pressure, Snow Cloak",PU
+144,Articuno-Galar,90,85,85,125,100,95,50.9,1.7,Psychic,Flying,Competitive,NU
+145,Zapdos,90,90,85,125,90,100,52.6,1.6,Electric,Flying,"Pressure, Static",OU
+145,Zapdos-Galar,90,125,90,85,90,100,58.2,1.6,Fighting,Flying,Defiant,UU
+146,Moltres,90,100,90,125,85,90,60,2,Fire,Flying,"Pressure, Flame Body",UU
+146,Moltres-Galar,90,85,90,100,125,90,66,2,Dark,Flying,Berserk,RUBL
+147,Dratini,41,64,45,50,50,50,3.3,1.8,Dragon,NA,"Shed Skin, Marvel Scale",LC
+148,Dragonair,61,84,65,70,70,70,16.5,4,Dragon,NA,"Shed Skin, Marvel Scale",NFE
+149,Dragonite,91,134,95,100,100,80,210,2.2,Dragon,Flying,"Inner Focus, Multiscale",OU
+15,Beedrill,65,90,40,45,80,75,29.5,1,Bug,Poison,"Swarm, Sniper",National Dex
+150,Mewtwo,106,110,90,154,90,130,122,2,Psychic,NA,"Pressure, Unnerve",Uber
+151,Mew,100,100,100,100,100,100,4,0.4,Psychic,NA,Synchronize,RUBL
+152,Chikorita,45,49,65,49,65,45,6.4,0.9,Grass,NA,"Overgrow, Leaf Guard",National Dex
+153,Bayleef,60,62,80,63,80,60,15.8,1.2,Grass,NA,"Overgrow, Leaf Guard",National Dex
+154,Meganium,80,82,100,83,100,80,100.5,1.8,Grass,NA,"Overgrow, Leaf Guard",National Dex
+155,Cyndaquil,39,52,43,60,50,65,7.9,0.5,Fire,NA,"Blaze, Flash Fire",LC
+156,Quilava,58,64,58,80,65,80,19,0.9,Fire,NA,"Blaze, Flash Fire",NFE
+157,Typhlosion,78,84,78,109,85,100,79.5,1.7,Fire,NA,"Blaze, Flash Fire",NU
+157,Typhlosion-Hisui,73,84,78,119,85,95,69.8,1.6,Fire,Ghost,"Blaze, Frisk",RU
+158,Totodile,50,65,64,44,48,43,9.5,0.6,Water,NA,"Torrent, Sheer Force",National Dex
+159,Croconaw,65,80,80,59,63,58,25,1.1,Water,NA,"Torrent, Sheer Force",National Dex
+16,Pidgey,40,45,40,35,35,56,1.8,0.3,Normal,Flying,"Keen Eye, Tangled Feet, Big Pecks",National Dex
+160,Feraligatr,85,105,100,79,83,78,88.8,2.3,Water,NA,"Torrent, Sheer Force",National Dex
+161,Sentret,35,46,34,35,45,20,6,0.8,Normal,NA,"Run Away, Keen Eye, Frisk",LC
+162,Furret,85,76,64,45,55,90,32.5,1.8,Normal,NA,"Run Away, Keen Eye, Frisk",Untiered
+163,Hoothoot,60,30,30,36,56,50,21.2,0.7,Normal,Flying,"Insomnia, Keen Eye, Tinted Lens",LC
+164,Noctowl,100,50,50,86,96,70,40.8,1.6,Normal,Flying,"Insomnia, Keen Eye, Tinted Lens",Untiered
+165,Ledyba,40,20,30,40,80,55,10.8,1,Bug,Flying,"Swarm, Early Bird, Rattled",National Dex
+166,Ledian,55,35,50,55,110,85,35.6,1.4,Bug,Flying,"Swarm, Early Bird, Iron Fist",National Dex
+167,Spinarak,40,60,40,40,40,30,8.5,0.5,Bug,Poison,"Swarm, Insomnia, Sniper",LC
+168,Ariados,70,90,70,60,70,40,33.5,1.1,Bug,Poison,"Swarm, Insomnia, Sniper",Untiered
+169,Crobat,85,90,80,70,80,130,75,1.8,Poison,Flying,"Inner Focus, Infiltrator",National Dex
+17,Pidgeotto,63,60,55,50,50,71,30,1.1,Normal,Flying,"Keen Eye, Tangled Feet, Big Pecks",National Dex
+170,Chinchou,75,38,38,56,56,67,12,0.5,Water,Electric,"Volt Absorb, Illuminate, Water Absorb",National Dex
+171,Lanturn,125,58,58,76,76,67,22.5,1.2,Water,Electric,"Volt Absorb, Illuminate, Water Absorb",National Dex
+172,Pichu,20,40,15,35,35,60,2,0.3,Electric,NA,"Static, Lightning Rod",LC
+173,Cleffa,50,25,28,45,55,15,3,0.3,Fairy,NA,"Cute Charm, Magic Guard, Friend Guard",LC
+174,Igglybuff,90,30,15,40,20,15,1,0.3,Normal,Fairy,"Cute Charm, Competitive, Friend Guard",LC
+175,Togepi,35,20,65,40,65,20,1.5,0.3,Fairy,NA,"Hustle, Serene Grace, Super Luck",National Dex
+176,Togetic,55,40,85,80,105,40,3.2,0.6,Fairy,Flying,"Hustle, Serene Grace, Super Luck",National Dex
+177,Natu,40,50,45,70,45,70,2,0.2,Psychic,Flying,"Synchronize, Early Bird, Magic Bounce",National Dex
+178,Xatu,65,75,70,95,70,95,15,1.5,Psychic,Flying,"Synchronize, Early Bird, Magic Bounce",National Dex
+179,Mareep,55,40,40,65,45,35,7.8,0.6,Electric,NA,"Static, Plus",LC
+18,Pidgeot,83,80,75,70,70,101,39.5,1.5,Normal,Flying,"Keen Eye, Tangled Feet, Big Pecks",National Dex
+180,Flaaffy,70,55,55,80,60,45,13.3,0.8,Electric,NA,"Static, Plus",NFE
+181,Ampharos,90,75,85,115,90,55,61.5,1.4,Electric,NA,"Static, Plus",Untiered
+182,Bellossom,75,80,95,90,100,50,5.8,0.4,Grass,NA,"Chlorophyll, Healer",National Dex
+183,Marill,70,20,50,20,50,40,8.5,0.4,Water,Fairy,"Thick Fat, Huge Power, Sap Sipper",NFE
+184,Azumarill,100,50,80,60,80,50,28.5,0.8,Water,Fairy,"Thick Fat, Huge Power, Sap Sipper",UU
+185,Sudowoodo,70,100,115,30,65,30,38,1.2,Rock,NA,"Sturdy, Rock Head, Rattled",Untiered
+186,Politoed,90,75,75,90,100,70,33.9,1.1,Water,NA,"Water Absorb, Damp, Drizzle",RU
+187,Hoppip,35,35,40,35,55,50,0.5,0.4,Grass,Flying,"Chlorophyll, Leaf Guard, Infiltrator",LC
+188,Skiploom,55,45,50,45,65,80,1,0.6,Grass,Flying,"Chlorophyll, Leaf Guard, Infiltrator",NFE
+189,Jumpluff,75,55,70,55,95,110,3,0.8,Grass,Flying,"Chlorophyll, Leaf Guard, Infiltrator",Untiered
+19,Rattata,30,56,35,25,35,72,3.5,0.3,Normal,NA,"Run Away, Guts, Hustle",National Dex
+19,Rattata-Alola,30,56,35,25,35,72,3.8,0.3,Dark,Normal,"Gluttony, Hustle, Thick Fat",National Dex
+190,Aipom,55,70,55,40,55,85,11.5,0.8,Normal,NA,"Run Away, Pickup, Skill Link",NFE
+191,Sunkern,30,30,30,30,30,30,1.8,0.3,Grass,NA,"Chlorophyll, Solar Power, Early Bird",LC
+192,Sunflora,75,75,55,105,85,30,8.5,0.8,Grass,NA,"Chlorophyll, Solar Power, Early Bird",Untiered
+193,Yanma,65,65,45,75,45,95,38,1.2,Bug,Flying,"Speed Boost, Compound Eyes, Frisk",NFE
+194,Wooper,55,45,45,25,25,15,8.5,0.4,Water,Ground,"Damp, Water Absorb, Unaware",LC
+194,Wooper-Paldea,55,45,45,25,25,15,11,0.4,Poison,Ground,"Poison Point, Water Absorb, Unaware",LC
+195,Quagsire,95,85,85,65,65,35,75,1.4,Water,Ground,"Damp, Water Absorb, Unaware",RU
+196,Espeon,65,65,60,130,95,110,26.5,0.9,Psychic,NA,"Synchronize, Magic Bounce",RU
+197,Umbreon,95,65,110,60,130,65,27,1,Dark,NA,"Synchronize, Inner Focus",RU
+198,Murkrow,60,85,42,85,42,91,2.1,0.5,Dark,Flying,"Insomnia, Super Luck, Prankster",NFE
+199,Slowking,95,75,80,100,110,30,79.5,2,Water,Psychic,"Oblivious, Own Tempo, Regenerator",UU
+199,Slowking-Galar,95,65,80,110,110,30,79.5,1.8,Poison,Psychic,"Curious Medicine, Own Tempo, Regenerator",OU
+2,Ivysaur,60,62,63,80,80,60,13,1,Grass,Poison,"Overgrow, Chlorophyll",National Dex
+20,Raticate,55,81,60,50,70,97,18.5,0.7,Normal,NA,"Run Away, Guts, Hustle",National Dex
+20,Raticate-Alola,75,71,70,40,80,77,25.5,0.7,Dark,Normal,"Gluttony, Hustle, Thick Fat",National Dex
+20,Raticate-Alola-Totem,75,71,70,40,80,77,105,1.4,Dark,Normal,Thick Fat,National Dex
+200,Misdreavus,60,60,60,85,85,85,1,0.7,Ghost,NA,Levitate,NFE
+201,Unown,48,72,48,72,48,48,5,0.5,Psychic,NA,Levitate,National Dex
+202,Wobbuffet,190,33,58,33,58,33,28.5,1.3,Psychic,NA,"Shadow Tag, Telepathy",National Dex
+203,Girafarig,70,80,65,90,65,85,41.5,1.5,Normal,Psychic,"Inner Focus, Early Bird, Sap Sipper",NFE
+204,Pineco,50,65,90,35,35,15,7.2,0.6,Bug,NA,"Sturdy, Overcoat",LC
+205,Forretress,75,90,140,60,60,40,125.8,1.2,Bug,Steel,"Sturdy, Overcoat",RU
+206,Dunsparce,100,70,70,65,65,45,14,1.5,Normal,NA,"Serene Grace, Run Away, Rattled",NFE
+207,Gligar,65,75,105,35,65,85,64.8,1.1,Ground,Flying,"Hyper Cutter, Sand Veil, Immunity",NU
+208,Steelix,75,85,200,55,65,30,400,9.2,Steel,Ground,"Rock Head, Sturdy, Sheer Force",National Dex
+209,Snubbull,60,80,50,40,40,30,7.8,0.6,Fairy,NA,"Intimidate, Run Away, Rattled",National Dex
+21,Spearow,40,60,30,31,31,70,2,0.3,Normal,Flying,"Keen Eye, Sniper",National Dex
+210,Granbull,90,120,75,60,60,45,48.7,1.4,Fairy,NA,"Intimidate, Quick Feet, Rattled",National Dex
+211,Qwilfish,65,95,85,55,55,85,3.9,0.5,Water,Poison,"Poison Point, Swift Swim, Intimidate",NU
+211,Qwilfish-Hisui,65,95,85,55,55,85,3.9,0.5,Dark,Poison,"Poison Point, Swift Swim, Intimidate",NU
+212,Scizor,70,130,100,55,80,65,118,1.8,Bug,Steel,"Swarm, Technician, Light Metal",UU
+213,Shuckle,20,10,230,10,230,5,20.5,0.6,Bug,Rock,"Sturdy, Gluttony, Contrary",National Dex
+214,Heracross,80,125,75,40,95,85,54,1.5,Bug,Fighting,"Swarm, Guts, Moxie",NU
+215,Sneasel,55,95,55,35,75,115,28,0.9,Dark,Ice,"Inner Focus, Keen Eye, Pickpocket",PU
+215,Sneasel-Hisui,55,95,55,35,75,115,27,0.9,Fighting,Poison,"Inner Focus, Keen Eye, Pickpocket",PU
+216,Teddiursa,60,80,50,50,50,40,8.8,0.6,Normal,NA,"Pickup, Quick Feet, Honey Gather",LC
+217,Ursaring,90,130,75,75,75,55,125.8,1.8,Normal,NA,"Guts, Quick Feet, Unnerve",PU
+218,Slugma,40,40,40,70,40,20,35,0.7,Fire,NA,"Magma Armor, Flame Body, Weak Armor",LC
+219,Magcargo,60,50,120,90,80,30,55,0.8,Fire,Rock,"Magma Armor, Flame Body, Weak Armor",Untiered
+22,Fearow,65,90,65,61,61,100,38,1.2,Normal,Flying,"Keen Eye, Sniper",National Dex
+220,Swinub,50,50,40,30,30,50,6.5,0.4,Ice,Ground,"Oblivious, Snow Cloak, Thick Fat",LC
+221,Piloswine,100,100,80,60,60,50,55.8,1.1,Ice,Ground,"Oblivious, Snow Cloak, Thick Fat",NU
+222,Corsola,65,55,95,65,95,35,5,0.6,Water,Rock,"Hustle, Natural Cure, Regenerator",National Dex
+222,Corsola-Galar,60,55,100,65,100,30,0.5,0.6,Ghost,NA,"Weak Armor, Cursed Body",National Dex
+223,Remoraid,35,65,35,65,35,65,12,0.6,Water,NA,"Hustle, Sniper, Moody",National Dex
+224,Octillery,75,105,75,105,75,45,28.5,0.9,Water,NA,"Suction Cups, Sniper, Moody",National Dex
+225,Delibird,45,55,45,65,45,75,16,0.9,Ice,Flying,"Vital Spirit, Hustle, Insomnia",Untiered
+226,Mantine,85,40,70,80,140,70,220,2.1,Water,Flying,"Swift Swim, Water Absorb, Water Veil",National Dex
+227,Skarmory,65,80,140,40,70,70,50.5,1.7,Steel,Flying,"Keen Eye, Sturdy, Weak Armor",National Dex
+228,Houndour,45,60,30,80,50,65,10.8,0.6,Dark,Fire,"Early Bird, Flash Fire, Unnerve",LC
+229,Houndoom,75,90,50,110,80,95,35,1.4,Dark,Fire,"Early Bird, Flash Fire, Unnerve",PU
+23,Ekans,35,60,44,40,54,55,6.9,2,Poison,NA,"Intimidate, Shed Skin, Unnerve",LC
+230,Kingdra,75,95,95,95,95,85,152,1.8,Water,Dragon,"Swift Swim, Sniper, Damp",National Dex
+231,Phanpy,90,60,60,40,40,40,33.5,0.5,Ground,NA,"Pickup, Sand Veil",LC
+232,Donphan,90,120,120,60,60,50,120,1.1,Ground,NA,"Sturdy, Sand Veil",RU
+233,Porygon2,85,80,90,105,95,60,32.5,0.6,Normal,NA,"Trace, Download, Analytic",National Dex
+234,Stantler,73,95,62,85,65,85,71.2,1.4,Normal,NA,"Intimidate, Frisk, Sap Sipper",NFE
+235,Smeargle,55,20,35,20,45,75,58,1.2,Normal,NA,"Own Tempo, Technician, Moody",National Dex
+236,Tyrogue,35,35,35,35,35,35,21,0.7,Fighting,NA,"Guts, Steadfast, Vital Spirit",National Dex
+237,Hitmontop,50,95,95,35,110,70,48,1.4,Fighting,NA,"Intimidate, Technician, Steadfast",National Dex
+238,Smoochum,45,30,15,85,65,65,6,0.4,Ice,Psychic,"Oblivious, Forewarn, Hydration",National Dex
+239,Elekid,45,63,37,65,55,95,23.5,0.6,Electric,NA,"Static, Vital Spirit",National Dex
+24,Arbok,60,95,69,65,79,80,65,3.5,Poison,NA,"Intimidate, Shed Skin, Unnerve",PU
+240,Magby,45,75,37,70,55,83,21.4,0.7,Fire,NA,"Flame Body, Vital Spirit",National Dex
+241,Miltank,95,80,105,40,70,100,75.5,1.2,Normal,NA,"Thick Fat, Scrappy, Sap Sipper",National Dex
+242,Blissey,255,10,10,75,135,55,46.8,1.5,Normal,NA,"Natural Cure, Serene Grace, Healer",OU
+243,Raikou,90,85,75,115,100,115,178,1.9,Electric,NA,"Pressure, Inner Focus",National Dex
+244,Entei,115,115,85,90,75,100,198,2.1,Fire,NA,"Pressure, Inner Focus",National Dex
+245,Suicune,100,75,115,90,115,85,187,2,Water,NA,"Pressure, Inner Focus",National Dex
+246,Larvitar,50,64,50,45,50,41,72,0.6,Rock,Ground,"Guts, Sand Veil",LC
+247,Pupitar,70,84,70,65,70,51,152,1.2,Rock,Ground,Shed Skin,NFE
+248,Tyranitar,100,134,110,95,100,61,202,2,Rock,Dark,"Sand Stream, Unnerve",RU
+249,Lugia,106,90,130,90,154,110,216,5.2,Psychic,Flying,"Pressure, Multiscale",National Dex
+25,Pikachu,35,55,40,50,50,90,6,0.4,Electric,NA,"Static, Lightning Rod",Untiered
+25,Pikachu-Alola,35,55,40,50,50,90,6,0.4,Electric,NA,"Static, Lightning Rod",Untiered
+25,Pikachu-Hoenn,35,55,40,50,50,90,6,0.4,Electric,NA,"Static, Lightning Rod",Untiered
+25,Pikachu-Kalos,35,55,40,50,50,90,6,0.4,Electric,NA,"Static, Lightning Rod",Untiered
+25,Pikachu-Original,35,55,40,50,50,90,6,0.4,Electric,NA,"Static, Lightning Rod",Untiered
+25,Pikachu-Partner,35,55,40,50,50,90,6,0.4,Electric,NA,"Static, Lightning Rod",Untiered
+25,Pikachu-Sinnoh,35,55,40,50,50,90,6,0.4,Electric,NA,"Static, Lightning Rod",Untiered
+25,Pikachu-Starter,45,80,50,75,60,120,6,0.4,Electric,NA,"Static, Lightning Rod",National Dex
+25,Pikachu-Unova,35,55,40,50,50,90,6,0.4,Electric,NA,"Static, Lightning Rod",Untiered
+25,Pikachu-World,35,55,40,50,50,90,6,0.4,Electric,NA,"Static, Lightning Rod",Untiered
+250,Ho-Oh,106,130,90,110,154,90,199,3.8,Fire,Flying,"Pressure, Regenerator",National Dex
+251,Celebi,100,100,100,100,100,100,5,0.6,Psychic,Grass,Natural Cure,National Dex
+252,Treecko,40,45,35,65,55,70,5,0.5,Grass,NA,"Overgrow, Unburden",National Dex
+253,Grovyle,50,65,45,85,65,95,21.6,0.9,Grass,NA,"Overgrow, Unburden",National Dex
+254,Sceptile,70,85,65,105,85,120,52.2,1.7,Grass,NA,"Overgrow, Unburden",National Dex
+255,Torchic,45,60,40,70,50,45,2.5,0.4,Fire,NA,"Blaze, Speed Boost",National Dex
+256,Combusken,60,85,60,85,60,55,19.5,0.9,Fire,Fighting,"Blaze, Speed Boost",National Dex
+257,Blaziken,80,120,70,110,70,80,52,1.9,Fire,Fighting,"Blaze, Speed Boost",National Dex
+258,Mudkip,50,70,50,50,50,40,7.6,0.4,Water,NA,"Torrent, Damp",National Dex
+259,Marshtomp,70,85,70,60,70,50,28,0.7,Water,Ground,"Torrent, Damp",National Dex
+26,Raichu,60,90,55,90,80,110,30,0.8,Electric,NA,"Static, Lightning Rod",Untiered
+26,Raichu-Alola,60,85,50,95,85,110,21,0.7,Electric,Psychic,Surge Surfer,PU
+260,Swampert,100,110,90,85,90,60,81.9,1.5,Water,Ground,"Torrent, Damp",National Dex
+261,Poochyena,35,55,35,30,30,35,13.6,0.5,Dark,NA,"Run Away, Quick Feet, Rattled",LC
+262,Mightyena,70,90,70,60,60,70,37,1,Dark,NA,"Intimidate, Quick Feet, Moxie",Untiered
+263,Zigzagoon,38,30,41,30,41,60,17.5,0.4,Normal,NA,"Pickup, Gluttony, Quick Feet",National Dex
+263,Zigzagoon-Galar,38,30,41,30,41,60,17.5,0.4,Dark,Normal,"Pickup, Gluttony, Quick Feet",National Dex
+264,Linoone,78,70,61,50,61,100,32.5,0.5,Normal,NA,"Pickup, Gluttony, Quick Feet",National Dex
+264,Linoone-Galar,78,70,61,50,61,100,32.5,0.5,Dark,Normal,"Pickup, Gluttony, Quick Feet",National Dex
+265,Wurmple,45,45,35,20,30,20,3.6,0.3,Bug,NA,"Shield Dust, Run Away",National Dex
+266,Silcoon,50,35,55,25,25,15,10,0.6,Bug,NA,Shed Skin,National Dex
+267,Beautifly,60,70,50,100,50,65,28.4,1,Bug,Flying,"Swarm, Rivalry",National Dex
+268,Cascoon,50,35,55,25,25,15,11.5,0.7,Bug,NA,Shed Skin,National Dex
+269,Dustox,60,50,70,50,90,65,31.6,1.2,Bug,Poison,"Shield Dust, Compound Eyes",National Dex
+27,Sandshrew,50,75,85,20,30,40,12,0.6,Ground,NA,"Sand Veil, Sand Rush",LC
+27,Sandshrew-Alola,50,75,90,10,35,40,40,0.7,Ice,Steel,"Snow Cloak, Slush Rush",LC
+270,Lotad,40,30,30,40,50,30,2.6,0.5,Water,Grass,"Swift Swim, Rain Dish, Own Tempo",LC
+271,Lombre,60,50,50,60,70,50,32.5,1.2,Water,Grass,"Swift Swim, Rain Dish, Own Tempo",NFE
+272,Ludicolo,80,70,70,90,100,70,55,1.5,Water,Grass,"Swift Swim, Rain Dish, Own Tempo",PU
+273,Seedot,40,40,50,30,30,30,4,0.5,Grass,NA,"Chlorophyll, Early Bird, Pickpocket",LC
+274,Nuzleaf,70,70,40,60,40,60,28,1,Grass,Dark,"Chlorophyll, Early Bird, Pickpocket",NFE
+275,Shiftry,90,100,60,90,60,80,59.6,1.3,Grass,Dark,"Chlorophyll, Wind Rider, Pickpocket",RU
+276,Taillow,40,55,30,30,30,85,2.3,0.3,Normal,Flying,"Guts, Scrappy",National Dex
+277,Swellow,60,85,60,75,50,125,19.8,0.7,Normal,Flying,"Guts, Scrappy",National Dex
+278,Wingull,40,30,30,55,30,85,9.5,0.6,Water,Flying,"Keen Eye, Hydration, Rain Dish",LC
+279,Pelipper,60,50,100,95,70,65,28,1.2,Water,Flying,"Keen Eye, Drizzle, Rain Dish",UU
+28,Sandslash,75,100,110,45,55,65,29.5,1,Ground,NA,"Sand Veil, Sand Rush",NU
+28,Sandslash-Alola,75,100,120,25,65,65,55,1.2,Ice,Steel,"Snow Cloak, Slush Rush",NU
+280,Ralts,28,25,25,45,35,40,6.6,0.4,Psychic,Fairy,"Synchronize, Trace, Telepathy",LC
+281,Kirlia,38,35,35,65,55,50,20.2,0.8,Psychic,Fairy,"Synchronize, Trace, Telepathy",NFE
+282,Gardevoir,68,65,65,125,115,80,48.4,1.6,Psychic,Fairy,"Synchronize, Trace, Telepathy",RU
+283,Surskit,40,30,32,50,52,65,1.7,0.5,Bug,Water,"Swift Swim, Rain Dish",LC
+284,Masquerain,70,60,62,100,82,80,3.6,0.8,Bug,Flying,"Intimidate, Unnerve",PU
+285,Shroomish,60,40,60,40,60,35,4.5,0.4,Grass,NA,"Effect Spore, Poison Heal, Quick Feet",LC
+286,Breloom,60,130,80,60,60,70,39.2,1.2,Grass,Fighting,"Effect Spore, Poison Heal, Technician",UU
+287,Slakoth,60,60,60,35,35,30,24,0.8,Normal,NA,Truant,LC
+288,Vigoroth,80,80,80,55,55,90,46.5,1.4,Normal,NA,Vital Spirit,NFE
+289,Slaking,150,160,100,95,65,100,130.5,2,Normal,NA,Truant,Untiered
+29,Nidoran-F,55,47,52,40,40,41,7,0.4,Poison,NA,"Poison Point, Rivalry, Hustle",National Dex
+290,Nincada,31,45,90,30,30,40,5.5,0.5,Bug,Ground,"Compound Eyes, Run Away",National Dex
+291,Ninjask,61,90,45,50,50,160,12,0.8,Bug,Flying,"Speed Boost, Infiltrator",National Dex
+292,Shedinja,1,90,45,30,30,40,1.2,0.8,Bug,Ghost,Wonder Guard,National Dex
+293,Whismur,64,51,23,51,23,28,16.3,0.6,Normal,NA,"Soundproof, Rattled",National Dex
+294,Loudred,84,71,43,71,43,48,40.5,1,Normal,NA,"Soundproof, Scrappy",National Dex
+295,Exploud,104,91,63,91,73,68,84,1.5,Normal,NA,"Soundproof, Scrappy",National Dex
+296,Makuhita,72,60,30,20,30,25,86.4,1,Fighting,NA,"Thick Fat, Guts, Sheer Force",LC
+297,Hariyama,144,120,60,40,60,50,253.8,2.3,Fighting,NA,"Thick Fat, Guts, Sheer Force",NU
+298,Azurill,50,20,40,20,40,20,2,0.2,Normal,Fairy,"Thick Fat, Huge Power, Sap Sipper",LC
+299,Nosepass,30,45,135,45,90,30,97,1,Rock,NA,"Sturdy, Magnet Pull, Sand Force",LC
+3,Venusaur,80,82,83,100,100,80,100,2,Grass,Poison,"Overgrow, Chlorophyll",National Dex
+30,Nidorina,70,62,67,55,55,56,20,0.8,Poison,NA,"Poison Point, Rivalry, Hustle",National Dex
+300,Skitty,50,45,45,35,35,50,11,0.6,Normal,NA,"Cute Charm, Normalize, Wonder Skin",National Dex
+301,Delcatty,70,65,65,55,55,90,32.6,1.1,Normal,NA,"Cute Charm, Normalize, Wonder Skin",National Dex
+302,Sableye,50,75,75,65,65,50,11,0.5,Dark,Ghost,"Keen Eye, Stall, Prankster",PU
+303,Mawile,50,85,85,55,55,50,11.5,0.6,Steel,Fairy,"Hyper Cutter, Intimidate, Sheer Force",National Dex
+304,Aron,50,70,100,40,40,30,60,0.4,Steel,Rock,"Sturdy, Rock Head, Heavy Metal",National Dex
+305,Lairon,60,90,140,50,50,40,120,0.9,Steel,Rock,"Sturdy, Rock Head, Heavy Metal",National Dex
+306,Aggron,70,110,180,60,60,50,360,2.1,Steel,Rock,"Sturdy, Rock Head, Heavy Metal",National Dex
+307,Meditite,30,40,55,40,55,60,11.2,0.6,Fighting,Psychic,"Pure Power, Telepathy",NFE
+308,Medicham,60,60,75,60,75,80,31.5,1.3,Fighting,Psychic,"Pure Power, Telepathy",PU
+309,Electrike,40,45,40,65,40,65,15.2,0.6,Electric,NA,"Static, Lightning Rod, Minus",National Dex
+31,Nidoqueen,90,92,87,75,85,76,60,1.3,Poison,Ground,"Poison Point, Rivalry, Sheer Force",National Dex
+310,Manectric,70,75,60,105,60,105,40.2,1.5,Electric,NA,"Static, Lightning Rod, Minus",National Dex
+311,Plusle,60,50,40,85,75,95,4.2,0.4,Electric,NA,"Plus, Lightning Rod",National Dex
+312,Minun,60,40,50,75,85,95,4.2,0.4,Electric,NA,"Minus, Volt Absorb",National Dex
+313,Volbeat,65,73,75,47,85,85,17.7,0.7,Bug,NA,"Illuminate, Swarm, Prankster",PU
+314,Illumise,65,47,75,73,85,85,17.7,0.6,Bug,NA,"Oblivious, Tinted Lens, Prankster",Untiered
+315,Roselia,50,60,45,100,80,65,2,0.3,Grass,Poison,"Natural Cure, Poison Point, Leaf Guard",National Dex
+316,Gulpin,70,43,53,43,53,40,10.3,0.4,Poison,NA,"Liquid Ooze, Sticky Hold, Gluttony",LC
+317,Swalot,100,73,83,73,83,55,80,1.7,Poison,NA,"Liquid Ooze, Sticky Hold, Gluttony",Untiered
+318,Carvanha,45,90,20,65,20,65,20.8,0.8,Water,Dark,"Rough Skin, Speed Boost",National Dex
+319,Sharpedo,70,120,40,95,40,95,88.8,1.8,Water,Dark,"Rough Skin, Speed Boost",National Dex
+32,Nidoran-M,46,57,40,40,40,50,9,0.5,Poison,NA,"Poison Point, Rivalry, Hustle",National Dex
+320,Wailmer,130,70,35,70,35,60,130,2,Water,NA,"Water Veil, Oblivious, Pressure",National Dex
+321,Wailord,170,90,45,90,45,60,398,14.5,Water,NA,"Water Veil, Oblivious, Pressure",National Dex
+322,Numel,60,60,40,65,45,35,24,0.7,Fire,Ground,"Oblivious, Simple, Own Tempo",LC
+323,Camerupt,70,100,70,105,75,40,220,1.9,Fire,Ground,"Magma Armor, Solid Rock, Anger Point",Untiered
+324,Torkoal,70,85,140,85,70,20,80.4,0.5,Fire,NA,"White Smoke, Drought, Shell Armor",UU
+325,Spoink,60,25,35,70,80,60,30.6,0.7,Psychic,NA,"Thick Fat, Own Tempo, Gluttony",LC
+326,Grumpig,80,45,65,90,110,80,71.5,0.9,Psychic,NA,"Thick Fat, Own Tempo, Gluttony",Untiered
+327,Spinda,60,60,60,60,60,60,5,1.1,Normal,NA,"Own Tempo, Tangled Feet, Contrary",National Dex
+328,Trapinch,45,100,45,45,45,10,15,0.7,Ground,NA,"Hyper Cutter, Arena Trap, Sheer Force",National Dex
+329,Vibrava,50,70,50,50,50,70,15.3,1.1,Ground,Dragon,Levitate,National Dex
+33,Nidorino,61,72,57,55,55,65,19.5,0.9,Poison,NA,"Poison Point, Rivalry, Hustle",National Dex
+330,Flygon,80,100,80,80,80,100,82,2,Ground,Dragon,Levitate,National Dex
+331,Cacnea,50,85,40,85,40,35,51.3,0.4,Grass,NA,"Sand Veil, Water Absorb",LC
+332,Cacturne,70,115,60,115,60,55,77.4,1.3,Grass,Dark,"Sand Veil, Water Absorb",Untiered
+333,Swablu,45,40,60,40,75,50,1.2,0.4,Normal,Flying,"Natural Cure, Cloud Nine",LC
+334,Altaria,75,70,90,70,105,80,20.6,1.1,Dragon,Flying,"Natural Cure, Cloud Nine",NU
+335,Zangoose,73,115,60,60,60,90,40.3,1.3,Normal,NA,"Immunity, Toxic Boost",Untiered
+336,Seviper,73,100,60,100,60,65,52.5,2.7,Poison,NA,"Shed Skin, Infiltrator",Untiered
+337,Lunatone,90,55,65,95,85,70,168,1,Rock,Psychic,Levitate,National Dex
+338,Solrock,90,95,85,55,65,70,154,1.2,Rock,Psychic,Levitate,National Dex
+339,Barboach,50,48,43,46,41,60,1.9,0.4,Water,Ground,"Oblivious, Anticipation, Hydration",LC
+34,Nidoking,81,102,77,85,75,85,62,1.4,Poison,Ground,"Poison Point, Rivalry, Sheer Force",National Dex
+340,Whiscash,110,78,73,76,71,60,23.6,0.9,Water,Ground,"Oblivious, Anticipation, Hydration",PU
+341,Corphish,43,80,65,50,35,35,11.5,0.6,Water,NA,"Hyper Cutter, Shell Armor, Adaptability",LC
+342,Crawdaunt,63,120,85,90,55,55,32.8,1.1,Water,Dark,"Hyper Cutter, Shell Armor, Adaptability",UU
+343,Baltoy,40,40,55,40,70,55,21.5,0.5,Ground,Psychic,Levitate,National Dex
+344,Claydol,60,70,105,70,120,75,108,1.5,Ground,Psychic,Levitate,National Dex
+345,Lileep,66,41,77,61,87,23,23.8,1,Rock,Grass,"Suction Cups, Storm Drain",National Dex
+346,Cradily,86,81,97,81,107,43,60.4,1.5,Rock,Grass,"Suction Cups, Storm Drain",National Dex
+347,Anorith,45,95,50,40,50,75,12.5,0.7,Rock,Bug,"Battle Armor, Swift Swim",National Dex
+348,Armaldo,75,125,100,70,80,45,68.2,1.5,Rock,Bug,"Battle Armor, Swift Swim",National Dex
+349,Feebas,20,15,20,10,55,80,7.4,0.6,Water,NA,"Swift Swim, Oblivious, Adaptability",LC
+35,Clefairy,70,45,48,60,65,35,7.5,0.6,Fairy,NA,"Cute Charm, Magic Guard, Friend Guard",NFE
+350,Milotic,95,60,79,100,125,81,162,6.2,Water,NA,"Marvel Scale, Competitive, Cute Charm",RU
+351,Castform,70,70,70,70,70,70,0.8,0.3,Normal,NA,Forecast,National Dex
+352,Kecleon,60,90,70,60,120,40,22,1,Normal,NA,"Color Change, Protean",National Dex
+353,Shuppet,44,75,35,63,33,45,2.3,0.6,Ghost,NA,"Insomnia, Frisk, Cursed Body",LC
+354,Banette,64,115,65,83,63,65,12.5,1.1,Ghost,NA,"Insomnia, Frisk, Cursed Body",Untiered
+355,Duskull,20,40,90,30,90,25,15,0.8,Ghost,NA,"Levitate, Frisk",LC
+356,Dusclops,40,70,130,60,130,25,30.6,1.6,Ghost,NA,"Pressure, Frisk",NFE
+357,Tropius,99,68,83,72,87,51,100,2,Grass,Flying,"Chlorophyll, Solar Power, Harvest",Untiered
+358,Chimecho,75,50,80,95,90,65,1,0.6,Psychic,NA,Levitate,Untiered
+359,Absol,65,130,60,75,60,75,47,1.2,Dark,NA,"Pressure, Super Luck, Justified",National Dex
+36,Clefable,95,70,73,95,90,60,40,1.3,Fairy,NA,"Cute Charm, Magic Guard, Unaware",OU
+360,Wynaut,95,23,48,23,48,23,14,0.6,Psychic,NA,"Shadow Tag, Telepathy",National Dex
+361,Snorunt,50,50,50,50,50,50,16.8,0.7,Ice,NA,"Inner Focus, Ice Body, Moody",LC
+362,Glalie,80,80,80,80,80,80,256.5,1.5,Ice,NA,"Inner Focus, Ice Body, Moody",Untiered
+363,Spheal,70,40,50,55,50,25,39.5,0.8,Ice,Water,"Thick Fat, Ice Body, Oblivious",National Dex
+364,Sealeo,90,60,70,75,70,45,87.6,1.1,Ice,Water,"Thick Fat, Ice Body, Oblivious",National Dex
+365,Walrein,110,80,90,95,90,65,150.6,1.4,Ice,Water,"Thick Fat, Ice Body, Oblivious",National Dex
+366,Clamperl,35,64,85,74,55,32,52.5,0.4,Water,NA,"Shell Armor, Rattled",National Dex
+367,Huntail,55,104,105,94,75,52,27,1.7,Water,NA,"Swift Swim, Water Veil",National Dex
+368,Gorebyss,55,84,105,114,75,52,22.6,1.8,Water,NA,"Swift Swim, Hydration",National Dex
+369,Relicanth,100,90,130,45,65,55,23.4,1,Water,Rock,"Swift Swim, Rock Head, Sturdy",National Dex
+37,Vulpix,38,41,40,50,65,65,9.9,0.6,Fire,NA,"Flash Fire, Drought",NUBL
+37,Vulpix-Alola,38,41,40,50,65,65,9.9,0.6,Ice,NA,"Snow Cloak, Snow Warning",NFE
+370,Luvdisc,43,30,55,40,65,97,8.7,0.6,Water,NA,"Swift Swim, Hydration",Untiered
+371,Bagon,45,75,60,40,30,50,42.1,0.6,Dragon,NA,"Rock Head, Sheer Force",LC
+372,Shelgon,65,95,100,60,50,50,110.5,1.1,Dragon,NA,"Rock Head, Overcoat",NFE
+373,Salamence,95,135,80,110,80,100,102.6,1.5,Dragon,Flying,"Intimidate, Moxie",UU
+374,Beldum,40,55,80,35,60,30,95.2,0.6,Steel,Psychic,"Clear Body, Light Metal",National Dex
+375,Metang,60,75,100,55,80,50,202.5,1.2,Steel,Psychic,"Clear Body, Light Metal",National Dex
+376,Metagross,80,135,130,95,90,70,550,1.6,Steel,Psychic,"Clear Body, Light Metal",National Dex
+377,Regirock,80,100,200,50,100,50,230,1.7,Rock,NA,"Clear Body, Sturdy",National Dex
+378,Regice,80,50,100,100,200,50,175,1.8,Ice,NA,"Clear Body, Ice Body",National Dex
+379,Registeel,80,75,150,75,150,50,205,1.9,Steel,NA,"Clear Body, Light Metal",National Dex
+38,Ninetales,73,76,75,81,100,100,19.9,1.1,Fire,NA,"Flash Fire, Drought",RU
+38,Ninetales-Alola,73,67,75,81,100,109,19.9,1.1,Ice,Fairy,"Snow Cloak, Snow Warning",OU
+380,Latias,80,80,90,110,130,110,40,1.4,Dragon,Psychic,Levitate,National Dex
+381,Latios,80,90,80,130,110,110,60,2,Dragon,Psychic,Levitate,National Dex
+382,Kyogre,100,100,90,150,140,90,352,4.5,Water,NA,Drizzle,Uber
+383,Groudon,100,150,140,100,90,90,950,3.5,Ground,NA,Drought,Uber
+384,Rayquaza,105,150,90,150,90,95,206.5,7,Dragon,Flying,Air Lock,Uber
+385,Jirachi,100,100,100,100,100,100,1.1,0.3,Steel,Psychic,Serene Grace,UU
+386,Deoxys,50,150,50,150,50,150,60.8,1.7,Psychic,NA,Pressure,National Dex
+386,Deoxys-Attack,50,180,20,180,20,150,60.8,1.7,Psychic,NA,Pressure,National Dex
+386,Deoxys-Defense,50,70,160,70,160,90,60.8,1.7,Psychic,NA,Pressure,National Dex
+386,Deoxys-Speed,50,95,90,95,90,180,60.8,1.7,Psychic,NA,Pressure,National Dex
+387,Turtwig,55,68,64,45,55,31,10.2,0.4,Grass,NA,"Overgrow, Shell Armor",LC
+388,Grotle,75,89,85,55,65,36,97,1.1,Grass,NA,"Overgrow, Shell Armor",NFE
+389,Torterra,95,109,105,75,85,56,310,2.2,Grass,Ground,"Overgrow, Shell Armor",RU
+39,Jigglypuff,115,45,20,45,25,20,5.5,0.5,Normal,Fairy,"Cute Charm, Competitive, Friend Guard",NFE
+390,Chimchar,44,58,44,58,44,61,6.2,0.5,Fire,NA,"Blaze, Iron Fist",LC
+391,Monferno,64,78,52,78,52,81,22,0.9,Fire,Fighting,"Blaze, Iron Fist",NFE
+392,Infernape,76,104,71,104,71,108,55,1.2,Fire,Fighting,"Blaze, Iron Fist",UU
+393,Piplup,53,51,53,61,56,40,5.2,0.4,Water,NA,"Torrent, Competitive",LC
+394,Prinplup,64,66,68,81,76,50,23,0.8,Water,NA,"Torrent, Competitive",NFE
+395,Empoleon,84,86,88,111,101,60,84.5,1.7,Water,Steel,"Torrent, Competitive",UU
+396,Starly,40,55,30,30,30,60,2,0.3,Normal,Flying,"Keen Eye, Reckless",LC
+397,Staravia,55,75,50,40,40,80,15.5,0.6,Normal,Flying,"Intimidate, Reckless",NFE
+398,Staraptor,85,120,70,50,60,100,24.9,1.2,Normal,Flying,"Intimidate, Reckless",RU
+399,Bidoof,59,45,40,35,40,31,20,0.5,Normal,NA,"Simple, Unaware, Moody",National Dex
+4,Charmander,39,52,43,60,50,65,8.5,0.6,Fire,NA,"Blaze, Solar Power",LC
+40,Wigglytuff,140,70,45,85,50,45,12,1,Normal,Fairy,"Cute Charm, Competitive, Frisk",Untiered
+400,Bibarel,79,85,60,55,60,71,31.5,1,Normal,Water,"Simple, Unaware, Moody",National Dex
+401,Kricketot,37,25,41,25,41,25,2.2,0.3,Bug,NA,"Shed Skin, Run Away",LC
+402,Kricketune,77,85,51,55,51,65,25.5,1,Bug,NA,"Swarm, Technician",Untiered
+403,Shinx,45,65,34,40,34,45,9.5,0.5,Electric,NA,"Rivalry, Intimidate, Guts",LC
+404,Luxio,60,85,49,60,49,60,30.5,0.9,Electric,NA,"Rivalry, Intimidate, Guts",NFE
+405,Luxray,80,120,79,95,79,70,42,1.4,Electric,NA,"Rivalry, Intimidate, Guts",Untiered
+406,Budew,40,30,35,50,70,55,1.2,0.2,Grass,Poison,"Natural Cure, Poison Point, Leaf Guard",National Dex
+407,Roserade,60,70,65,125,105,90,14.5,0.9,Grass,Poison,"Natural Cure, Poison Point, Technician",National Dex
+408,Cranidos,67,125,40,30,30,58,31.5,0.9,Rock,NA,"Mold Breaker, Sheer Force",National Dex
+409,Rampardos,97,165,60,65,50,58,102.5,1.6,Rock,NA,"Mold Breaker, Sheer Force",National Dex
+41,Zubat,40,45,35,30,40,55,7.5,0.8,Poison,Flying,"Inner Focus, Infiltrator",National Dex
+410,Shieldon,30,42,118,42,88,30,57,0.5,Rock,Steel,"Sturdy, Soundproof",National Dex
+411,Bastiodon,60,52,168,47,138,30,149.5,1.3,Rock,Steel,"Sturdy, Soundproof",National Dex
+412,Burmy,40,29,45,29,45,36,3.4,0.2,Bug,NA,"Shed Skin, Overcoat",National Dex
+413,Wormadam,60,59,85,79,105,36,6.5,0.5,Bug,Grass,"Anticipation, Overcoat",National Dex
+413,Wormadam-Sandy,60,79,105,59,85,36,6.5,0.5,Bug,Ground,"Anticipation, Overcoat",National Dex
+413,Wormadam-Trash,60,69,95,69,95,36,6.5,0.5,Bug,Steel,"Anticipation, Overcoat",National Dex
+414,Mothim,70,94,50,94,50,66,23.3,0.9,Bug,Flying,"Swarm, Tinted Lens",National Dex
+415,Combee,30,30,42,30,42,70,5.5,0.3,Bug,Flying,"Honey Gather, Hustle",LC
+416,Vespiquen,70,80,102,80,102,40,38.5,1.2,Bug,Flying,"Pressure, Unnerve",Untiered
+417,Pachirisu,60,45,70,45,90,95,3.9,0.4,Electric,NA,"Run Away, Pickup, Volt Absorb",Untiered
+418,Buizel,55,65,35,60,30,85,29.5,0.7,Water,NA,"Swift Swim, Water Veil",LC
+419,Floatzel,85,105,55,85,50,115,33.5,1.1,Water,NA,"Swift Swim, Water Veil",NU
+42,Golbat,75,80,70,65,75,90,55,1.6,Poison,Flying,"Inner Focus, Infiltrator",National Dex
+420,Cherubi,45,35,45,62,53,35,3.3,0.4,Grass,NA,Chlorophyll,National Dex
+421,Cherrim,70,60,70,87,78,85,9.3,0.5,Grass,NA,Flower Gift,National Dex
+422,Shellos,76,48,48,57,62,34,6.3,0.3,Water,NA,"Sticky Hold, Storm Drain, Sand Force",LC
+423,Gastrodon,111,83,68,92,82,39,29.9,0.9,Water,Ground,"Sticky Hold, Storm Drain, Sand Force",UU
+424,Ambipom,75,100,66,60,66,115,20.3,1.2,Normal,NA,"Technician, Pickup, Skill Link",RU
+425,Drifloon,90,50,34,60,44,70,1.2,0.4,Ghost,Flying,"Aftermath, Unburden, Flare Boost",LC
+426,Drifblim,150,80,44,90,54,80,15,1.2,Ghost,Flying,"Aftermath, Unburden, Flare Boost",NU
+427,Buneary,55,66,44,44,56,85,5.5,0.4,Normal,NA,"Run Away, Klutz, Limber",National Dex
+428,Lopunny,65,76,84,54,96,105,33.3,1.2,Normal,NA,"Cute Charm, Klutz, Limber",National Dex
+429,Mismagius,60,60,60,105,105,105,4.4,0.9,Ghost,NA,Levitate,NU
+43,Oddish,45,50,55,75,65,30,5.4,0.5,Grass,Poison,"Chlorophyll, Run Away",National Dex
+430,Honchkrow,100,125,52,105,52,71,27.3,0.9,Dark,Flying,"Insomnia, Super Luck, Moxie",PU
+431,Glameow,49,55,42,42,37,85,3.9,0.5,Normal,NA,"Limber, Own Tempo, Keen Eye",National Dex
+432,Purugly,71,82,64,64,59,112,43.8,1,Normal,NA,"Thick Fat, Own Tempo, Defiant",National Dex
+433,Chingling,45,30,50,65,50,45,0.6,0.2,Psychic,NA,Levitate,LC
+434,Stunky,63,63,47,41,41,74,19.2,0.4,Poison,Dark,"Stench, Aftermath, Keen Eye",LC
+435,Skuntank,103,93,67,71,61,84,38,1,Poison,Dark,"Stench, Aftermath, Keen Eye",PU
+436,Bronzor,57,24,86,24,86,23,60.5,0.5,Steel,Psychic,"Levitate, Heatproof, Heavy Metal",LC
+437,Bronzong,67,89,116,79,116,33,187,1.3,Steel,Psychic,"Levitate, Heatproof, Heavy Metal",NU
+438,Bonsly,50,80,95,10,45,10,15,0.5,Rock,NA,"Sturdy, Rock Head, Rattled",LC
+439,Mime Jr.,20,25,45,70,90,60,13,0.6,Psychic,Fairy,"Soundproof, Filter, Technician",National Dex
+44,Gloom,60,65,70,85,75,40,8.6,0.8,Grass,Poison,"Chlorophyll, Stench",National Dex
+440,Happiny,100,5,5,15,65,30,24.4,0.6,Normal,NA,"Natural Cure, Serene Grace, Friend Guard",LC
+441,Chatot,76,65,45,92,42,91,1.9,0.5,Normal,Flying,"Keen Eye, Tangled Feet, Big Pecks",National Dex
+442,Spiritomb,50,92,108,92,108,35,108,1,Ghost,Dark,"Pressure, Infiltrator",PU
+443,Gible,58,70,45,40,45,42,20.5,0.7,Dragon,Ground,"Sand Veil, Rough Skin",LC
+444,Gabite,68,90,65,50,55,82,56,1.4,Dragon,Ground,"Sand Veil, Rough Skin",NFE
+445,Garchomp,108,130,95,80,85,102,95,1.9,Dragon,Ground,"Sand Veil, Rough Skin",UUBL
+446,Munchlax,135,85,40,40,85,5,105,0.6,Normal,NA,"Pickup, Thick Fat, Gluttony",LC
+447,Riolu,40,70,40,35,40,60,20.2,0.7,Fighting,NA,"Steadfast, Inner Focus, Prankster",LC
+448,Lucario,70,110,70,115,70,90,54,1.2,Fighting,Steel,"Steadfast, Inner Focus, Justified",RU
+449,Hippopotas,68,72,78,38,42,32,49.5,0.8,Ground,NA,"Sand Stream, Sand Force",LC
+45,Vileplume,75,80,85,110,90,50,18.6,1.2,Grass,Poison,"Chlorophyll, Effect Spore",National Dex
+450,Hippowdon,108,112,118,68,72,47,300,2,Ground,NA,"Sand Stream, Sand Force",RU
+451,Skorupi,40,50,90,30,55,65,12,0.8,Poison,Bug,"Battle Armor, Sniper, Keen Eye",National Dex
+452,Drapion,70,90,110,60,75,95,61.5,1.3,Poison,Dark,"Battle Armor, Sniper, Keen Eye",National Dex
+453,Croagunk,48,61,40,61,40,50,23,0.7,Poison,Fighting,"Anticipation, Dry Skin, Poison Touch",LC
+454,Toxicroak,83,106,65,86,65,85,44.4,1.3,Poison,Fighting,"Anticipation, Dry Skin, Poison Touch",NU
+455,Carnivine,74,100,72,90,72,46,27,1.4,Grass,NA,Levitate,National Dex
+456,Finneon,49,49,56,49,61,66,7,0.4,Water,NA,"Swift Swim, Storm Drain, Water Veil",LC
+457,Lumineon,69,69,76,69,86,91,24,1.2,Water,NA,"Swift Swim, Storm Drain, Water Veil",Untiered
+458,Mantyke,45,20,50,60,120,50,65,1,Water,Flying,"Swift Swim, Water Absorb, Water Veil",National Dex
+459,Snover,60,62,50,62,60,40,50.5,1,Grass,Ice,"Snow Warning, Soundproof",LC
+46,Paras,35,70,55,45,55,25,5.4,0.3,Bug,Grass,"Effect Spore, Dry Skin, Damp",National Dex
+460,Abomasnow,90,92,75,92,85,60,135.5,2.2,Grass,Ice,"Snow Warning, Soundproof",PU
+461,Weavile,70,120,65,45,85,125,34,1.1,Dark,Ice,"Pressure, Pickpocket",UU
+462,Magnezone,70,70,115,130,90,60,180,1.2,Electric,Steel,"Magnet Pull, Sturdy, Analytic",RU
+463,Lickilicky,110,85,95,80,95,50,140,1.7,Normal,NA,"Own Tempo, Oblivious, Cloud Nine",National Dex
+464,Rhyperior,115,140,130,55,55,40,282.8,2.4,Ground,Rock,"Lightning Rod, Solid Rock, Reckless",National Dex
+465,Tangrowth,100,100,125,110,50,50,128.6,2,Grass,NA,"Chlorophyll, Leaf Guard, Regenerator",National Dex
+466,Electivire,75,123,67,95,85,95,138.6,1.8,Electric,NA,"Motor Drive, Vital Spirit",National Dex
+467,Magmortar,75,95,67,125,95,83,68,1.6,Fire,NA,"Flame Body, Vital Spirit",National Dex
+468,Togekiss,85,50,95,120,115,80,38,1.5,Fairy,Flying,"Hustle, Serene Grace, Super Luck",National Dex
+469,Yanmega,86,76,86,116,56,95,51.5,1.9,Bug,Flying,"Speed Boost, Tinted Lens, Frisk",RU
+47,Parasect,60,95,80,60,80,30,29.5,1,Bug,Grass,"Effect Spore, Dry Skin, Damp",National Dex
+470,Leafeon,65,110,130,60,65,95,25.5,1,Grass,NA,"Leaf Guard, Chlorophyll",Untiered
+471,Glaceon,65,60,110,130,95,65,25.9,0.8,Ice,NA,"Snow Cloak, Ice Body",Untiered
+472,Gliscor,75,95,125,45,75,95,42.5,2,Ground,Flying,"Hyper Cutter, Sand Veil, Poison Heal",Uber
+473,Mamoswine,110,130,80,70,60,80,291,2.5,Ice,Ground,"Oblivious, Snow Cloak, Thick Fat",UU
+474,Porygon-Z,85,80,70,135,75,90,34,0.9,Normal,NA,"Adaptability, Download, Analytic",National Dex
+475,Gallade,68,125,65,65,115,80,52,1.6,Psychic,Fighting,"Steadfast, Sharpness, Justified",RU
+476,Probopass,60,55,145,75,150,40,340,1.4,Rock,Steel,"Sturdy, Magnet Pull, Sand Force",PU
+477,Dusknoir,45,100,135,65,135,45,106.6,2.2,Ghost,NA,"Pressure, Frisk",Untiered
+478,Froslass,70,80,70,80,70,110,26.6,1.3,Ice,Ghost,"Snow Cloak, Cursed Body",NU
+479,Rotom,50,50,77,95,77,91,0.3,0.3,Electric,Ghost,Levitate,PU
+479,Rotom-Fan,50,65,107,105,107,86,0.3,0.3,Electric,Flying,Levitate,Untiered
+479,Rotom-Frost,50,65,107,105,107,86,0.3,0.3,Electric,Ice,Levitate,PU
+479,Rotom-Heat,50,65,107,105,107,86,0.3,0.3,Electric,Fire,Levitate,RU
+479,Rotom-Mow,50,65,107,105,107,86,0.3,0.3,Electric,Grass,Levitate,NU
+479,Rotom-Wash,50,65,107,105,107,86,0.3,0.3,Electric,Water,Levitate,UU
+48,Venonat,60,55,50,40,55,45,30,1,Bug,Poison,"Compound Eyes, Tinted Lens, Run Away",LC
+480,Uxie,75,75,130,75,130,95,0.3,0.3,Psychic,NA,Levitate,NU
+481,Mesprit,80,105,105,105,105,80,0.3,0.3,Psychic,NA,Levitate,NU
+482,Azelf,75,125,70,125,70,115,0.3,0.3,Psychic,NA,Levitate,RU
+483,Dialga,100,120,120,150,100,90,683,5.4,Steel,Dragon,"Pressure, Telepathy",Uber
+483,Dialga-Origin,100,100,120,150,120,90,850,7,Steel,Dragon,"Pressure, Telepathy",Uber
+484,Palkia,90,120,100,150,120,100,336,4.2,Water,Dragon,"Pressure, Telepathy",Uber
+484,Palkia-Origin,90,100,100,150,120,120,660,6.3,Water,Dragon,"Pressure, Telepathy",Uber
+485,Heatran,91,90,106,130,106,77,430,1.7,Fire,Steel,"Flash Fire, Flame Body",OU
+486,Regigigas,110,160,110,80,110,100,420,3.7,Normal,NA,Slow Start,National Dex
+487,Giratina,150,100,120,100,120,90,750,4.5,Ghost,Dragon,"Pressure, Telepathy",Uber
+487,Giratina-Origin,150,120,100,120,100,90,650,6.9,Ghost,Dragon,Levitate,Uber
+488,Cresselia,120,70,110,75,120,85,85.6,1.5,Psychic,NA,Levitate,UU
+489,Phione,80,80,80,80,80,80,3.1,0.4,Water,NA,Hydration,Untiered
+49,Venomoth,70,65,60,90,75,90,12.5,1.5,Bug,Poison,"Shield Dust, Tinted Lens, Wonder Skin",NUBL
+490,Manaphy,100,100,100,100,100,100,1.4,0.3,Water,NA,Hydration,OU
+491,Darkrai,70,90,90,135,90,125,50.5,1.5,Dark,NA,Bad Dreams,Uber
+492,Shaymin,100,100,100,100,100,100,2.1,0.2,Grass,NA,Natural Cure,NU
+492,Shaymin-Sky,100,103,75,120,75,127,5.2,0.4,Grass,Flying,Serene Grace,Uber
+493,Arceus,120,120,120,120,120,120,320,3.2,Normal,NA,Multitype,Uber
+493,Arceus-Bug,120,120,120,120,120,120,320,3.2,Bug,NA,Multitype,Uber
+493,Arceus-Dark,120,120,120,120,120,120,320,3.2,Dark,NA,Multitype,Uber
+493,Arceus-Dragon,120,120,120,120,120,120,320,3.2,Dragon,NA,Multitype,Uber
+493,Arceus-Electric,120,120,120,120,120,120,320,3.2,Electric,NA,Multitype,Uber
+493,Arceus-Fighting,120,120,120,120,120,120,320,3.2,Fighting,NA,Multitype,Uber
+493,Arceus-Fire,120,120,120,120,120,120,320,3.2,Fire,NA,Multitype,Uber
+493,Arceus-Flying,120,120,120,120,120,120,320,3.2,Flying,NA,Multitype,Uber
+493,Arceus-Ghost,120,120,120,120,120,120,320,3.2,Ghost,NA,Multitype,Uber
+493,Arceus-Grass,120,120,120,120,120,120,320,3.2,Grass,NA,Multitype,Uber
+493,Arceus-Ground,120,120,120,120,120,120,320,3.2,Ground,NA,Multitype,Uber
+493,Arceus-Ice,120,120,120,120,120,120,320,3.2,Ice,NA,Multitype,Uber
+493,Arceus-Poison,120,120,120,120,120,120,320,3.2,Poison,NA,Multitype,Uber
+493,Arceus-Psychic,120,120,120,120,120,120,320,3.2,Psychic,NA,Multitype,Uber
+493,Arceus-Rock,120,120,120,120,120,120,320,3.2,Rock,NA,Multitype,Uber
+493,Arceus-Steel,120,120,120,120,120,120,320,3.2,Steel,NA,Multitype,Uber
+493,Arceus-Water,120,120,120,120,120,120,320,3.2,Water,NA,Multitype,Uber
+493,Arceus-Fairy,120,120,120,120,120,120,320,3.2,Fairy,NA,Multitype,Uber
+494,Victini,100,100,100,100,100,100,4,0.4,Psychic,Fire,Victory Star,National Dex
+495,Snivy,45,45,55,45,55,63,8.1,0.6,Grass,NA,"Overgrow, Contrary",National Dex
+496,Servine,60,60,75,60,75,83,16,0.8,Grass,NA,"Overgrow, Contrary",National Dex
+497,Serperior,75,75,95,75,95,113,63,3.3,Grass,NA,"Overgrow, Contrary",National Dex
+498,Tepig,65,63,45,45,45,45,9.9,0.5,Fire,NA,"Blaze, Thick Fat",National Dex
+499,Pignite,90,93,55,70,55,55,55.5,1,Fire,Fighting,"Blaze, Thick Fat",National Dex
+5,Charmeleon,58,64,58,80,65,80,19,1.1,Fire,NA,"Blaze, Solar Power",NFE
+50,Diglett,10,55,25,35,45,95,0.8,0.2,Ground,NA,"Sand Veil, Arena Trap, Sand Force",NFE
+50,Diglett-Alola,10,55,30,35,45,90,1,0.2,Ground,Steel,"Sand Veil, Tangling Hair, Sand Force",LC
+500,Emboar,110,123,65,100,65,65,150,1.6,Fire,Fighting,"Blaze, Reckless",National Dex
+501,Oshawott,55,55,45,63,45,45,5.9,0.5,Water,NA,"Torrent, Shell Armor",LC
+502,Dewott,75,75,60,83,60,60,24.5,0.8,Water,NA,"Torrent, Shell Armor",NFE
+503,Samurott,95,100,85,108,70,70,94.6,1.5,Water,NA,"Torrent, Shell Armor",PU
+503,Samurott-Hisui,90,108,80,100,65,85,58.2,1.5,Water,Dark,"Torrent, Sharpness",OU
+504,Patrat,45,55,39,35,39,42,11.6,0.5,Normal,NA,"Run Away, Keen Eye, Analytic",National Dex
+505,Watchog,60,85,69,60,69,77,27,1.1,Normal,NA,"Illuminate, Keen Eye, Analytic",National Dex
+506,Lillipup,45,60,45,25,45,55,4.1,0.4,Normal,NA,"Vital Spirit, Pickup, Run Away",National Dex
+507,Herdier,65,80,65,35,65,60,14.7,0.9,Normal,NA,"Intimidate, Sand Rush, Scrappy",National Dex
+508,Stoutland,85,110,90,45,90,80,61,1.2,Normal,NA,"Intimidate, Sand Rush, Scrappy",National Dex
+509,Purrloin,41,50,37,50,37,66,10.1,0.4,Dark,NA,"Limber, Unburden, Prankster",National Dex
+51,Dugtrio,35,100,50,50,70,120,33.3,0.7,Ground,NA,"Sand Veil, Arena Trap, Sand Force",Untiered
+51,Dugtrio-Alola,35,100,60,50,70,110,66.6,0.7,Ground,Steel,"Sand Veil, Tangling Hair, Sand Force",PU
+510,Liepard,64,88,50,88,50,106,37.5,1.1,Dark,NA,"Limber, Unburden, Prankster",National Dex
+511,Pansage,50,53,48,53,48,64,10.5,0.6,Grass,NA,"Gluttony, Overgrow",National Dex
+512,Simisage,75,98,63,98,63,101,30.5,1.1,Grass,NA,"Gluttony, Overgrow",National Dex
+513,Pansear,50,53,48,53,48,64,11,0.6,Fire,NA,"Gluttony, Blaze",National Dex
+514,Simisear,75,98,63,98,63,101,28,1,Fire,NA,"Gluttony, Blaze",National Dex
+515,Panpour,50,53,48,53,48,64,13.5,0.6,Water,NA,"Gluttony, Torrent",National Dex
+516,Simipour,75,98,63,98,63,101,29,1,Water,NA,"Gluttony, Torrent",National Dex
+517,Munna,76,25,45,67,55,24,23.3,0.6,Psychic,NA,"Forewarn, Synchronize, Telepathy",National Dex
+518,Musharna,116,55,85,107,95,29,60.5,1.1,Psychic,NA,"Forewarn, Synchronize, Telepathy",National Dex
+519,Pidove,50,55,50,36,30,43,2.1,0.3,Normal,Flying,"Big Pecks, Super Luck, Rivalry",National Dex
+52,Meowth,40,45,35,40,40,90,4.2,0.4,Normal,NA,"Pickup, Technician, Unnerve",LC
+52,Meowth-Alola,40,35,35,50,40,90,4.2,0.4,Dark,NA,"Pickup, Technician, Rattled",LC
+52,Meowth-Galar,50,65,55,40,40,40,7.5,0.4,Steel,NA,"Pickup, Tough Claws, Unnerve",LC
+520,Tranquill,62,77,62,50,42,65,15,0.6,Normal,Flying,"Big Pecks, Super Luck, Rivalry",National Dex
+521,Unfezant,80,115,80,65,55,93,29,1.2,Normal,Flying,"Big Pecks, Super Luck, Rivalry",National Dex
+522,Blitzle,45,60,32,50,32,76,29.8,0.8,Electric,NA,"Lightning Rod, Motor Drive, Sap Sipper",National Dex
+523,Zebstrika,75,100,63,80,63,116,79.5,1.6,Electric,NA,"Lightning Rod, Motor Drive, Sap Sipper",National Dex
+524,Roggenrola,55,75,85,25,25,15,18,0.4,Rock,NA,"Sturdy, Weak Armor, Sand Force",National Dex
+525,Boldore,70,105,105,50,40,20,102,0.9,Rock,NA,"Sturdy, Weak Armor, Sand Force",National Dex
+526,Gigalith,85,135,130,60,80,25,260,1.7,Rock,NA,"Sturdy, Sand Stream, Sand Force",National Dex
+527,Woobat,65,45,43,55,43,72,2.1,0.4,Psychic,Flying,"Unaware, Klutz, Simple",National Dex
+528,Swoobat,67,57,55,77,55,114,10.5,0.9,Psychic,Flying,"Unaware, Klutz, Simple",National Dex
+529,Drilbur,60,85,40,30,45,68,8.5,0.3,Ground,NA,"Sand Rush, Sand Force, Mold Breaker",National Dex
+53,Persian,65,70,60,65,65,115,32,1,Normal,NA,"Limber, Technician, Unnerve",Untiered
+53,Persian-Alola,65,60,60,75,65,115,33,1.1,Dark,NA,"Fur Coat, Technician, Rattled",PU
+530,Excadrill,110,135,60,50,65,88,40.4,0.7,Ground,Steel,"Sand Rush, Sand Force, Mold Breaker",National Dex
+531,Audino,103,60,86,60,86,50,31,1.1,Normal,NA,"Healer, Regenerator, Klutz",National Dex
+532,Timburr,75,80,55,25,35,35,12.5,0.6,Fighting,NA,"Guts, Sheer Force, Iron Fist",LC
+533,Gurdurr,85,105,85,40,50,40,40,1.2,Fighting,NA,"Guts, Sheer Force, Iron Fist",PU
+534,Conkeldurr,105,140,95,55,65,45,87,1.4,Fighting,NA,"Guts, Sheer Force, Iron Fist",UU
+535,Tympole,50,50,40,50,40,64,4.5,0.5,Water,NA,"Swift Swim, Hydration, Water Absorb",National Dex
+536,Palpitoad,75,65,55,65,55,69,17,0.8,Water,Ground,"Swift Swim, Hydration, Water Absorb",National Dex
+537,Seismitoad,105,95,75,85,75,74,62,1.5,Water,Ground,"Swift Swim, Poison Touch, Water Absorb",National Dex
+538,Throh,120,100,85,30,85,45,55.5,1.3,Fighting,NA,"Guts, Inner Focus, Mold Breaker",National Dex
+539,Sawk,75,125,75,30,75,85,51,1.4,Fighting,NA,"Sturdy, Inner Focus, Mold Breaker",National Dex
+54,Psyduck,50,52,48,65,50,55,19.6,0.8,Water,NA,"Damp, Cloud Nine, Swift Swim",LC
+540,Sewaddle,45,53,70,40,60,42,2.5,0.3,Bug,Grass,"Swarm, Chlorophyll, Overcoat",LC
+541,Swadloon,55,63,90,50,80,42,7.3,0.5,Bug,Grass,"Leaf Guard, Chlorophyll, Overcoat",NFE
+542,Leavanny,75,103,80,70,80,92,20.5,1.2,Bug,Grass,"Swarm, Chlorophyll, Overcoat",PU
+543,Venipede,30,45,59,30,39,57,5.3,0.4,Bug,Poison,"Poison Point, Swarm, Speed Boost",National Dex
+544,Whirlipede,40,55,99,40,79,47,58.5,1.2,Bug,Poison,"Poison Point, Swarm, Speed Boost",National Dex
+545,Scolipede,60,100,89,55,69,112,200.5,2.5,Bug,Poison,"Poison Point, Swarm, Speed Boost",National Dex
+546,Cottonee,40,27,60,37,50,66,0.6,0.3,Grass,Fairy,"Prankster, Infiltrator, Chlorophyll",National Dex
+547,Whimsicott,60,67,85,77,75,116,6.6,0.7,Grass,Fairy,"Prankster, Infiltrator, Chlorophyll",National Dex
+548,Petilil,45,35,50,70,50,30,6.6,0.5,Grass,NA,"Chlorophyll, Own Tempo, Leaf Guard",LC
+549,Lilligant,70,60,75,110,75,90,16.3,1.1,Grass,NA,"Chlorophyll, Own Tempo, Leaf Guard",PUBL
+549,Lilligant-Hisui,70,105,75,50,75,105,19.2,1.2,Grass,Fighting,"Chlorophyll, Hustle, Leaf Guard",RUBL
+55,Golduck,80,82,78,95,80,85,76.6,1.7,Water,NA,"Damp, Cloud Nine, Swift Swim",Untiered
+550,Basculin,70,92,65,80,55,98,18,1,Water,NA,"Reckless, Adaptability, Mold Breaker",PU
+550,Basculin-Blue-Striped,70,92,65,80,55,98,18,1,Water,NA,"Rock Head, Adaptability, Mold Breaker",PU
+550,Basculin-White-Striped,70,92,65,80,55,98,18,1,Water,NA,"Rattled, Adaptability, Mold Breaker",PU
+551,Sandile,50,72,35,35,35,65,15.2,0.7,Ground,Dark,"Intimidate, Moxie, Anger Point",LC
+552,Krokorok,60,82,45,45,45,74,33.4,1,Ground,Dark,"Intimidate, Moxie, Anger Point",NFE
+553,Krookodile,95,117,80,65,70,92,96.3,1.5,Ground,Dark,"Intimidate, Moxie, Anger Point",RU
+554,Darumaka,70,90,45,15,45,50,37.5,0.6,Fire,NA,"Hustle, Inner Focus",National Dex
+554,Darumaka-Galar,70,90,45,15,45,50,40,0.7,Ice,NA,"Hustle, Inner Focus",National Dex
+555,Darmanitan,105,140,55,30,55,95,92.9,1.3,Fire,NA,"Sheer Force, Zen Mode",National Dex
+555,Darmanitan-Galar,105,140,55,30,55,95,120,1.7,Ice,NA,"Gorilla Tactics, Zen Mode",National Dex
+556,Maractus,75,86,67,106,67,60,28,1,Grass,NA,"Water Absorb, Chlorophyll, Storm Drain",National Dex
+557,Dwebble,50,65,85,35,35,55,14.5,0.3,Bug,Rock,"Sturdy, Shell Armor, Weak Armor",National Dex
+558,Crustle,70,105,125,65,75,45,200,1.4,Bug,Rock,"Sturdy, Shell Armor, Weak Armor",National Dex
+559,Scraggy,50,75,70,35,70,48,11.8,0.6,Dark,Fighting,"Shed Skin, Moxie, Intimidate",National Dex
+56,Mankey,40,80,35,35,45,70,28,0.5,Fighting,NA,"Vital Spirit, Anger Point, Defiant",LC
+560,Scrafty,65,90,115,45,115,58,30,1.1,Dark,Fighting,"Shed Skin, Moxie, Intimidate",National Dex
+561,Sigilyph,72,58,80,103,80,97,14,1.4,Psychic,Flying,"Wonder Skin, Magic Guard, Tinted Lens",National Dex
+562,Yamask,38,30,85,55,65,30,1.5,0.5,Ghost,NA,Mummy,National Dex
+562,Yamask-Galar,38,55,85,30,65,30,1.5,0.5,Ground,Ghost,Wandering Spirit,National Dex
+563,Cofagrigus,58,50,145,95,105,30,76.5,1.7,Ghost,NA,Mummy,National Dex
+564,Tirtouga,54,78,103,53,45,22,16.5,0.7,Water,Rock,"Solid Rock, Sturdy, Swift Swim",National Dex
+565,Carracosta,74,108,133,83,65,32,81,1.2,Water,Rock,"Solid Rock, Sturdy, Swift Swim",National Dex
+566,Archen,55,112,45,74,45,70,9.5,0.5,Rock,Flying,Defeatist,National Dex
+567,Archeops,75,140,65,112,65,110,32,1.4,Rock,Flying,Defeatist,National Dex
+568,Trubbish,50,50,62,40,62,65,31,0.6,Poison,NA,"Stench, Sticky Hold, Aftermath",National Dex
+569,Garbodor,80,95,82,60,82,75,107.3,1.9,Poison,NA,"Stench, Weak Armor, Aftermath",National Dex
+57,Primeape,65,105,60,60,70,95,32,1,Fighting,NA,"Vital Spirit, Anger Point, Defiant",PUBL
+570,Zorua,40,65,40,80,40,65,12.5,0.7,Dark,NA,Illusion,LC
+570,Zorua-Hisui,35,60,40,85,40,70,12.5,0.7,Normal,Ghost,Illusion,LC
+571,Zoroark,60,105,60,120,60,105,81.1,1.6,Dark,NA,Illusion,NUBL
+571,Zoroark-Hisui,55,100,60,125,60,110,73,1.6,Normal,Ghost,Illusion,RU
+572,Minccino,55,50,40,40,40,75,5.8,0.4,Normal,NA,"Cute Charm, Technician, Skill Link",National Dex
+573,Cinccino,75,95,60,65,60,115,7.5,0.5,Normal,NA,"Cute Charm, Technician, Skill Link",National Dex
+574,Gothita,45,30,50,55,65,45,5.8,0.4,Psychic,NA,"Frisk, Competitive, Shadow Tag",LC
+575,Gothorita,60,45,70,75,85,55,18,0.7,Psychic,NA,"Frisk, Competitive, Shadow Tag",NFE
+576,Gothitelle,70,55,95,95,110,65,44,1.5,Psychic,NA,"Frisk, Competitive, Shadow Tag",Untiered
+577,Solosis,45,30,40,105,50,20,1,0.3,Psychic,NA,"Overcoat, Magic Guard, Regenerator",National Dex
+578,Duosion,65,40,50,125,60,30,8,0.6,Psychic,NA,"Overcoat, Magic Guard, Regenerator",National Dex
+579,Reuniclus,110,65,75,125,85,30,20.1,1,Psychic,NA,"Overcoat, Magic Guard, Regenerator",National Dex
+58,Growlithe,55,70,45,70,50,60,19,0.7,Fire,NA,"Intimidate, Flash Fire, Justified",LC
+58,Growlithe-Hisui,60,75,45,65,50,55,22.7,0.8,Fire,Rock,"Intimidate, Flash Fire, Rock Head",NFE
+580,Ducklett,62,44,50,44,50,55,5.5,0.5,Water,Flying,"Keen Eye, Big Pecks, Hydration",LC
+581,Swanna,75,87,63,87,63,98,24.2,1.3,Water,Flying,"Keen Eye, Big Pecks, Hydration",PU
+582,Vanillite,36,50,50,65,60,44,5.7,0.4,Ice,NA,"Ice Body, Snow Cloak, Weak Armor",National Dex
+583,Vanillish,51,65,65,80,75,59,41,1.1,Ice,NA,"Ice Body, Snow Cloak, Weak Armor",National Dex
+584,Vanilluxe,71,95,85,110,95,79,57.5,1.3,Ice,NA,"Ice Body, Snow Warning, Weak Armor",National Dex
+585,Deerling,60,60,50,40,50,75,19.5,0.6,Normal,Grass,"Chlorophyll, Sap Sipper, Serene Grace",LC
+586,Sawsbuck,80,100,70,60,70,95,92.5,1.9,Normal,Grass,"Chlorophyll, Sap Sipper, Serene Grace",Untiered
+587,Emolga,55,75,60,75,60,103,5,0.4,Electric,Flying,"Static, Motor Drive",National Dex
+588,Karrablast,50,75,45,40,45,60,5.9,0.5,Bug,NA,"Swarm, Shed Skin, No Guard",National Dex
+589,Escavalier,70,135,105,60,105,20,33,1,Bug,Steel,"Swarm, Shell Armor, Overcoat",National Dex
+59,Arcanine,90,110,80,100,80,95,155,1.9,Fire,NA,"Intimidate, Flash Fire, Justified",RU
+59,Arcanine-Hisui,95,115,80,95,80,90,168,2,Fire,Rock,"Intimidate, Flash Fire, Rock Head",UU
+590,Foongus,69,55,45,55,55,15,1,0.2,Grass,Poison,"Effect Spore, Regenerator",LC
+591,Amoonguss,114,85,70,85,80,30,10.5,0.6,Grass,Poison,"Effect Spore, Regenerator",UU
+592,Frillish,55,40,50,65,85,40,33,1.2,Water,Ghost,"Water Absorb, Cursed Body, Damp",National Dex
+593,Jellicent,100,60,70,85,105,60,135,2.2,Water,Ghost,"Water Absorb, Cursed Body, Damp",National Dex
+594,Alomomola,165,75,80,40,45,65,31.6,1.2,Water,NA,"Healer, Hydration, Regenerator",OU
+595,Joltik,50,47,50,57,50,65,0.6,0.1,Bug,Electric,"Compound Eyes, Unnerve, Swarm",National Dex
+596,Galvantula,70,77,60,97,60,108,14.3,0.8,Bug,Electric,"Compound Eyes, Unnerve, Swarm",National Dex
+597,Ferroseed,44,50,91,24,86,10,18.8,0.6,Grass,Steel,Iron Barbs,National Dex
+598,Ferrothorn,74,94,131,54,116,20,110,1,Grass,Steel,"Iron Barbs, Anticipation",National Dex
+599,Klink,40,55,70,45,60,30,21,0.3,Steel,NA,"Plus, Minus, Clear Body",National Dex
+6,Charizard,78,84,78,109,85,100,90.5,1.7,Fire,Flying,"Blaze, Solar Power",PU
+60,Poliwag,40,50,40,40,40,90,12.4,0.6,Water,NA,"Water Absorb, Damp, Swift Swim",LC
+600,Klang,60,80,95,70,85,50,51,0.6,Steel,NA,"Plus, Minus, Clear Body",National Dex
+601,Klinklang,60,100,115,70,85,90,81,0.6,Steel,NA,"Plus, Minus, Clear Body",National Dex
+602,Tynamo,35,55,40,45,40,60,0.3,0.2,Electric,NA,Levitate,LC
+603,Eelektrik,65,85,70,75,70,40,22,1.2,Electric,NA,Levitate,NFE
+604,Eelektross,85,115,80,105,80,50,80.5,2.1,Electric,NA,Levitate,NU
+605,Elgyem,55,55,55,85,55,30,9,0.5,Psychic,NA,"Telepathy, Synchronize, Analytic",National Dex
+606,Beheeyem,75,75,75,125,95,40,34.5,1,Psychic,NA,"Telepathy, Synchronize, Analytic",National Dex
+607,Litwick,50,30,55,65,55,20,3.1,0.3,Ghost,Fire,"Flash Fire, Flame Body, Infiltrator",LC
+608,Lampent,60,40,60,95,60,55,13,0.6,Ghost,Fire,"Flash Fire, Flame Body, Infiltrator",NFE
+609,Chandelure,60,55,90,145,90,80,34.3,1,Ghost,Fire,"Flash Fire, Flame Body, Infiltrator",RU
+61,Poliwhirl,65,65,65,50,50,90,20,1,Water,NA,"Water Absorb, Damp, Swift Swim",NFE
+610,Axew,46,87,60,30,40,57,18,0.6,Dragon,NA,"Rivalry, Mold Breaker, Unnerve",LC
+611,Fraxure,66,117,70,40,50,67,36,1,Dragon,NA,"Rivalry, Mold Breaker, Unnerve",NFE
+612,Haxorus,76,147,90,60,70,97,105.5,1.8,Dragon,NA,"Rivalry, Mold Breaker, Unnerve",RUBL
+613,Cubchoo,55,70,40,60,40,40,8.5,0.5,Ice,NA,"Snow Cloak, Slush Rush, Rattled",LC
+614,Beartic,95,130,80,70,80,50,260,2.6,Ice,NA,"Snow Cloak, Slush Rush, Swift Swim",Untiered
+615,Cryogonal,80,50,50,95,135,105,148,1.1,Ice,NA,Levitate,PU
+616,Shelmet,50,40,85,40,65,25,7.7,0.4,Bug,NA,"Hydration, Shell Armor, Overcoat",National Dex
+617,Accelgor,80,70,40,100,60,145,25.3,0.8,Bug,NA,"Hydration, Sticky Hold, Unburden",National Dex
+618,Stunfisk,109,66,84,81,99,32,11,0.7,Ground,Electric,"Static, Limber, Sand Veil",National Dex
+618,Stunfisk-Galar,109,81,99,66,84,32,20.5,0.7,Ground,Steel,Mimicry,National Dex
+619,Mienfoo,45,85,50,55,50,65,20,0.9,Fighting,NA,"Inner Focus, Regenerator, Reckless",LC
+62,Poliwrath,90,95,95,70,90,70,54,1.3,Water,Fighting,"Water Absorb, Damp, Swift Swim",PU
+620,Mienshao,65,125,60,95,60,105,35.5,1.4,Fighting,NA,"Inner Focus, Regenerator, Reckless",RUBL
+621,Druddigon,77,120,90,60,90,48,139,1.6,Dragon,NA,"Rough Skin, Sheer Force, Mold Breaker",National Dex
+622,Golett,59,74,50,35,50,35,92,1,Ground,Ghost,"Iron Fist, Klutz, No Guard",National Dex
+623,Golurk,89,124,80,55,80,55,330,2.8,Ground,Ghost,"Iron Fist, Klutz, No Guard",National Dex
+624,Pawniard,45,85,70,40,40,60,10.2,0.5,Dark,Steel,"Defiant, Inner Focus, Pressure",LC
+625,Bisharp,65,125,100,60,70,70,70,1.6,Dark,Steel,"Defiant, Inner Focus, Pressure",RU
+626,Bouffalant,95,110,95,40,95,55,94.6,1.6,Normal,NA,"Reckless, Sap Sipper, Soundproof",National Dex
+627,Rufflet,70,83,50,37,50,60,10.5,0.5,Normal,Flying,"Keen Eye, Sheer Force, Hustle",NFE
+628,Braviary,100,123,75,57,75,80,41,1.5,Normal,Flying,"Keen Eye, Sheer Force, Defiant",PU
+628,Braviary-Hisui,110,83,70,112,70,65,43.4,1.7,Psychic,Flying,"Keen Eye, Sheer Force, Tinted Lens",RU
+629,Vullaby,70,55,75,45,65,60,9,0.5,Dark,Flying,"Big Pecks, Overcoat, Weak Armor",LC
+63,Abra,25,20,15,105,55,90,19.5,0.9,Psychic,NA,"Synchronize, Inner Focus, Magic Guard",National Dex
+630,Mandibuzz,110,65,105,55,95,80,39.5,1.2,Dark,Flying,"Big Pecks, Overcoat, Weak Armor",UU
+631,Heatmor,85,97,66,105,66,65,58,1.4,Fire,NA,"Gluttony, Flash Fire, White Smoke",National Dex
+632,Durant,58,109,112,48,48,109,33,0.3,Bug,Steel,"Swarm, Hustle, Truant",National Dex
+633,Deino,52,65,50,45,50,38,17.3,0.8,Dark,Dragon,Hustle,LC
+634,Zweilous,72,85,70,65,70,58,50,1.4,Dark,Dragon,Hustle,NFE
+635,Hydreigon,92,105,90,125,90,98,160,1.8,Dark,Dragon,Levitate,UU
+636,Larvesta,55,85,55,50,55,60,28.8,1.1,Bug,Fire,"Flame Body, Swarm",LC
+637,Volcarona,85,60,65,135,105,100,46,1.6,Bug,Fire,"Flame Body, Swarm",Uber
+638,Cobalion,91,90,129,90,72,108,250,2.1,Steel,Fighting,Justified,National Dex
+639,Terrakion,91,129,90,72,90,108,260,1.9,Rock,Fighting,Justified,National Dex
+64,Kadabra,40,35,30,120,70,105,56.5,1.3,Psychic,NA,"Synchronize, Inner Focus, Magic Guard",National Dex
+640,Virizion,91,90,72,90,129,108,200,2,Grass,Fighting,Justified,National Dex
+641,Tornadus,79,115,70,125,80,111,63,1.5,Flying,NA,"Prankster, Defiant",NUBL
+641,Tornadus-Therian,79,100,80,110,90,121,63,1.4,Flying,NA,Regenerator,UU
+642,Thundurus,79,115,70,125,80,111,61,1.5,Electric,Flying,"Prankster, Defiant",RU
+642,Thundurus-Therian,79,105,70,145,80,101,61,3,Electric,Flying,Volt Absorb,UU
+643,Reshiram,100,120,100,150,120,90,330,3.2,Dragon,Fire,Turboblaze,National Dex
+644,Zekrom,100,150,120,120,100,90,345,2.9,Dragon,Electric,Teravolt,National Dex
+645,Landorus,89,125,90,115,80,101,68,1.5,Ground,Flying,"Sand Force, Sheer Force",Uber
+645,Landorus-Therian,89,145,90,105,80,91,68,1.3,Ground,Flying,Intimidate,OU
+646,Kyurem,125,130,90,130,90,95,325,3,Dragon,Ice,Pressure,National Dex
+646,Kyurem-Black,125,170,100,120,90,95,325,3.3,Dragon,Ice,Teravolt,National Dex
+646,Kyurem-White,125,120,90,170,100,95,325,3.6,Dragon,Ice,Turboblaze,National Dex
+647,Keldeo,91,72,90,129,90,108,48.5,1.4,Water,Fighting,Justified,National Dex
+647,Keldeo-Resolute,91,72,90,129,90,108,48.5,1.4,Water,Fighting,Justified,National Dex
+648,Meloetta,100,77,77,128,128,90,6.5,0.6,Normal,Psychic,Serene Grace,NUBL
+649,Genesect,71,120,95,120,95,99,82.5,1.5,Bug,Steel,Download,National Dex
+649,Genesect-Burn,71,120,95,120,95,99,82.5,1.5,Bug,Steel,Download,National Dex
+649,Genesect-Chill,71,120,95,120,95,99,82.5,1.5,Bug,Steel,Download,National Dex
+649,Genesect-Douse,71,120,95,120,95,99,82.5,1.5,Bug,Steel,Download,National Dex
+649,Genesect-Shock,71,120,95,120,95,99,82.5,1.5,Bug,Steel,Download,National Dex
+65,Alakazam,55,50,45,135,95,120,48,1.5,Psychic,NA,"Synchronize, Inner Focus, Magic Guard",National Dex
+650,Chespin,56,61,65,48,45,38,9,0.4,Grass,NA,"Overgrow, Bulletproof",LC
+651,Quilladin,61,78,95,56,58,57,29,0.7,Grass,NA,"Overgrow, Bulletproof",NFE
+652,Chesnaught,88,107,122,74,75,64,90,1.6,Grass,Fighting,"Overgrow, Bulletproof",RU
+653,Fennekin,40,45,40,62,60,60,9.4,0.4,Fire,NA,"Blaze, Magician",LC
+654,Braixen,59,59,58,90,70,73,14.5,1,Fire,NA,"Blaze, Magician",NFE
+655,Delphox,75,69,72,114,100,104,39,1.5,Fire,Psychic,"Blaze, Magician",NUBL
+656,Froakie,41,56,40,62,44,71,7,0.3,Water,NA,"Torrent, Protean",LC
+657,Frogadier,54,63,52,83,56,97,10.9,0.6,Water,NA,"Torrent, Protean",NFE
+658,Greninja,72,95,67,103,71,122,40,1.5,Water,Dark,"Torrent, Protean, Battle Bond",OU
+658,Greninja-Bond,72,95,67,103,71,122,40,1.5,Water,Dark,Battle Bond,OU
+659,Bunnelby,38,36,38,32,36,57,5,0.4,Normal,NA,"Pickup, Cheek Pouch, Huge Power",National Dex
+66,Machop,70,80,50,35,35,35,19.5,0.8,Fighting,NA,"Guts, No Guard, Steadfast",National Dex
+660,Diggersby,85,56,77,50,77,78,42.4,1,Normal,Ground,"Pickup, Cheek Pouch, Huge Power",National Dex
+661,Fletchling,45,50,43,40,38,62,1.7,0.3,Normal,Flying,"Big Pecks, Gale Wings",LC
+662,Fletchinder,62,73,55,56,52,84,16,0.7,Fire,Flying,"Flame Body, Gale Wings",NFE
+663,Talonflame,78,81,71,74,69,126,24.5,1.2,Fire,Flying,"Flame Body, Gale Wings",RU
+664,Scatterbug,38,35,40,27,25,35,2.5,0.3,Bug,NA,"Shield Dust, Compound Eyes, Friend Guard",LC
+665,Spewpa,45,22,60,27,30,29,8.4,0.3,Bug,NA,"Shed Skin, Friend Guard",NFE
+666,Vivillon,80,52,50,90,50,89,17,1.2,Bug,Flying,"Shield Dust, Compound Eyes, Friend Guard",PU
+666,Vivillon-Fancy,80,52,50,90,50,89,17,1.2,Bug,Flying,"Shield Dust, Compound Eyes, Friend Guard",PU
+666,Vivillon-Pokeball,80,52,50,90,50,89,17,1.2,Bug,Flying,"Shield Dust, Compound Eyes, Friend Guard",PU
+667,Litleo,62,50,58,73,54,72,13.5,0.6,Fire,Normal,"Rivalry, Unnerve, Moxie",LC
+668,Pyroar,86,68,72,109,66,106,81.5,1.5,Fire,Normal,"Rivalry, Unnerve, Moxie",PU
+669,Flabebe,44,38,39,61,79,42,0.1,0.1,Fairy,NA,"Flower Veil, Symbiosis",LC
+67,Machoke,80,100,70,50,60,45,70.5,1.5,Fighting,NA,"Guts, No Guard, Steadfast",National Dex
+670,Floette,54,45,47,75,98,52,0.9,0.2,Fairy,NA,"Flower Veil, Symbiosis",NFE
+671,Florges,78,65,68,112,154,75,10,1.1,Fairy,NA,"Flower Veil, Symbiosis",NU
+672,Skiddo,66,65,48,62,57,52,31,0.9,Grass,NA,"Sap Sipper, Grass Pelt",LC
+673,Gogoat,123,100,62,97,81,68,91,1.7,Grass,NA,"Sap Sipper, Grass Pelt",Untiered
+674,Pancham,67,82,62,46,48,43,8,0.6,Fighting,NA,"Iron Fist, Mold Breaker, Scrappy",National Dex
+675,Pangoro,95,124,78,69,71,58,136,2.1,Fighting,Dark,"Iron Fist, Mold Breaker, Scrappy",National Dex
+676,Furfrou,75,80,60,65,90,102,28,1.2,Normal,NA,Fur Coat,National Dex
+677,Espurr,62,48,54,63,60,68,3.5,0.3,Psychic,NA,"Keen Eye, Infiltrator, Own Tempo",National Dex
+678,Meowstic-F,74,48,76,83,81,104,8.5,0.6,Psychic,NA,"Keen Eye, Infiltrator, Competitive",National Dex
+678,Meowstic-M,74,48,76,83,81,104,8.5,0.6,Psychic,NA,"Keen Eye, Infiltrator, Prankster",National Dex
+679,Honedge,45,80,100,35,37,28,2,0.8,Steel,Ghost,No Guard,National Dex
+68,Machamp,90,130,80,65,85,55,130,1.6,Fighting,NA,"Guts, No Guard, Steadfast",National Dex
+680,Doublade,59,110,150,45,49,35,4.5,0.8,Steel,Ghost,No Guard,National Dex
+681,Aegislash,60,50,150,50,150,60,53,1.7,Steel,Ghost,Stance Change,National Dex
+682,Spritzee,78,52,60,63,65,23,0.5,0.2,Fairy,NA,"Healer, Aroma Veil",National Dex
+683,Aromatisse,101,72,72,99,89,29,15.5,0.8,Fairy,NA,"Healer, Aroma Veil",National Dex
+684,Swirlix,62,48,66,59,57,49,3.5,0.4,Fairy,NA,"Sweet Veil, Unburden",National Dex
+685,Slurpuff,82,80,86,85,75,72,5,0.8,Fairy,NA,"Sweet Veil, Unburden",National Dex
+686,Inkay,53,54,53,37,46,45,3.5,0.4,Dark,Psychic,"Contrary, Suction Cups, Infiltrator",National Dex
+687,Malamar,86,92,88,68,75,73,47,1.5,Dark,Psychic,"Contrary, Suction Cups, Infiltrator",National Dex
+688,Binacle,42,52,67,39,56,50,31,0.5,Rock,Water,"Tough Claws, Sniper, Pickpocket",National Dex
+689,Barbaracle,72,105,115,54,86,68,96,1.3,Rock,Water,"Tough Claws, Sniper, Pickpocket",National Dex
+69,Bellsprout,50,75,35,70,30,40,4,0.7,Grass,Poison,"Chlorophyll, Gluttony",LC
+690,Skrelp,50,60,60,60,60,30,7.3,0.5,Poison,Water,"Poison Point, Poison Touch, Adaptability",LC
+691,Dragalge,65,75,90,97,123,44,81.5,1.8,Poison,Dragon,"Poison Point, Poison Touch, Adaptability",RU
+692,Clauncher,50,53,62,58,63,44,8.3,0.5,Water,NA,Mega Launcher,LC
+693,Clawitzer,71,73,88,120,89,59,35.3,1.3,Water,NA,Mega Launcher,PU
+694,Helioptile,44,38,33,61,43,70,6,0.5,Electric,Normal,"Dry Skin, Sand Veil, Solar Power",National Dex
+695,Heliolisk,62,55,52,109,94,109,21,1,Electric,Normal,"Dry Skin, Sand Veil, Solar Power",National Dex
+696,Tyrunt,58,89,77,45,45,48,26,0.8,Rock,Dragon,"Strong Jaw, Sturdy",National Dex
+697,Tyrantrum,82,121,119,69,59,71,270,2.5,Rock,Dragon,"Strong Jaw, Rock Head",National Dex
+698,Amaura,77,59,50,67,63,46,25.2,1.3,Rock,Ice,"Refrigerate, Snow Warning",National Dex
+699,Aurorus,123,77,72,99,92,58,225,2.7,Rock,Ice,"Refrigerate, Snow Warning",National Dex
+7,Squirtle,44,48,65,50,64,43,9,0.5,Water,NA,"Torrent, Rain Dish",National Dex
+70,Weepinbell,65,90,50,85,45,55,6.4,1,Grass,Poison,"Chlorophyll, Gluttony",NFE
+700,Sylveon,95,65,65,110,130,60,23.5,1,Fairy,NA,"Cute Charm, Pixilate",RU
+701,Hawlucha,78,92,75,74,63,118,21.5,0.8,Fighting,Flying,"Limber, Unburden, Mold Breaker",RUBL
+702,Dedenne,67,58,57,81,67,101,2.2,0.2,Electric,Fairy,"Cheek Pouch, Pickup, Plus",Untiered
+703,Carbink,50,50,150,50,150,50,5.7,0.3,Rock,Fairy,"Clear Body, Sturdy",PU
+704,Goomy,45,50,35,55,75,40,2.8,0.3,Dragon,NA,"Sap Sipper, Hydration, Gooey",LC
+705,Sliggoo,68,75,53,83,113,60,17.5,0.8,Dragon,NA,"Sap Sipper, Hydration, Gooey",NFE
+705,Sliggoo-Hisui,58,75,83,83,113,40,68.5,0.7,Steel,Dragon,"Sap Sipper, Shell Armor, Gooey",NFE
+706,Goodra,90,100,70,110,150,80,150.5,2,Dragon,NA,"Sap Sipper, Hydration, Gooey",NU
+706,Goodra-Hisui,80,100,100,110,150,60,334.1,1.7,Steel,Dragon,"Sap Sipper, Shell Armor, Gooey",UU
+707,Klefki,57,80,91,80,87,75,3,0.2,Steel,Fairy,"Prankster, Magician",NU
+708,Phantump,43,70,48,50,60,38,7,0.4,Ghost,Grass,"Natural Cure, Frisk, Harvest",LC
+709,Trevenant,85,110,76,65,82,56,71,1.5,Ghost,Grass,"Natural Cure, Frisk, Harvest",PU
+71,Victreebel,80,105,65,100,70,70,15.5,1.7,Grass,Poison,"Chlorophyll, Gluttony",PU
+710,Pumpkaboo,49,66,70,44,55,51,5,0.4,Ghost,Grass,"Pickup, Frisk, Insomnia",National Dex
+710,Pumpkaboo-Large,54,66,70,44,55,46,7.5,0.5,Ghost,Grass,"Pickup, Frisk",National Dex
+710,Pumpkaboo-Small,44,66,70,44,55,56,3.5,0.3,Ghost,Grass,"Pickup, Frisk",National Dex
+710,Pumpkaboo-Super,59,66,70,44,55,41,15,0.8,Ghost,Grass,"Pickup, Frisk, Insomnia",National Dex
+711,Gourgeist,65,90,122,58,75,84,12.5,0.9,Ghost,Grass,"Pickup, Frisk, Insomnia",National Dex
+711,Gourgeist-Large,75,95,122,58,75,69,14,1.1,Ghost,Grass,"Pickup, Frisk",National Dex
+711,Gourgeist-Small,55,85,122,58,75,99,9.5,0.7,Ghost,Grass,"Pickup, Frisk",National Dex
+711,Gourgeist-Super,85,100,122,58,75,54,39,1.7,Ghost,Grass,"Pickup, Frisk, Insomnia",National Dex
+712,Bergmite,55,69,85,32,35,28,99.5,1,Ice,NA,"Own Tempo, Ice Body, Sturdy",LC
+713,Avalugg,95,117,184,44,46,28,505,2,Ice,NA,"Own Tempo, Ice Body, Sturdy",NU
+713,Avalugg-Hisui,95,127,184,34,36,38,262.4,1.4,Ice,Rock,"Strong Jaw, Ice Body, Sturdy",PU
+714,Noibat,40,30,35,45,40,55,8,0.5,Flying,Dragon,"Frisk, Infiltrator, Telepathy",LC
+715,Noivern,85,70,80,97,80,123,85,1.5,Flying,Dragon,"Frisk, Infiltrator, Telepathy",RU
+716,Xerneas,126,131,95,131,98,99,215,3,Fairy,NA,Fairy Aura,National Dex
+717,Yveltal,126,131,95,131,98,99,203,5.8,Dark,Flying,Dark Aura,National Dex
+718,Zygarde,108,100,121,81,95,95,305,5,Dragon,Ground,"Aura Break, Power Construct",National Dex
+718,Zygarde-10%,54,100,71,61,85,115,33.5,1.2,Dragon,Ground,"Aura Break, Power Construct",National Dex
+719,Diancie,50,100,150,100,150,50,8.8,0.7,Rock,Fairy,Clear Body,RU
+72,Tentacool,40,40,35,50,100,70,45.5,0.9,Water,Poison,"Clear Body, Liquid Ooze, Rain Dish",National Dex
+720,Hoopa,80,110,60,150,130,70,9,0.5,Psychic,Ghost,Magician,NU
+720,Hoopa-Unbound,80,160,60,170,130,80,490,6.5,Psychic,Dark,Magician,UU
+721,Volcanion,80,110,120,130,90,70,195,1.7,Fire,Water,Water Absorb,UU
+722,Rowlet,68,55,55,50,50,42,1.5,0.3,Grass,Flying,"Overgrow, Long Reach",LC
+723,Dartrix,78,75,75,70,70,52,16,0.7,Grass,Flying,"Overgrow, Long Reach",NFE
+724,Decidueye,78,107,75,100,100,70,36.6,1.6,Grass,Ghost,"Overgrow, Long Reach",NU
+724,Decidueye-Hisui,88,112,80,95,95,60,37,1.6,Grass,Fighting,"Overgrow, Scrappy",RU
+725,Litten,45,65,40,60,40,70,4.3,0.4,Fire,NA,"Blaze, Intimidate",National Dex
+726,Torracat,65,85,50,80,50,90,25,0.7,Fire,NA,"Blaze, Intimidate",National Dex
+727,Incineroar,95,115,90,80,90,60,83,1.8,Fire,Dark,"Blaze, Intimidate",National Dex
+728,Popplio,50,54,54,66,56,40,7.5,0.4,Water,NA,"Torrent, Liquid Voice",National Dex
+729,Brionne,60,69,69,91,81,50,17.5,0.6,Water,NA,"Torrent, Liquid Voice",National Dex
+73,Tentacruel,80,70,65,80,120,100,55,1.6,Water,Poison,"Clear Body, Liquid Ooze, Rain Dish",National Dex
+730,Primarina,80,74,74,126,116,60,44,1.8,Water,Fairy,"Torrent, Liquid Voice",National Dex
+731,Pikipek,35,75,30,30,30,65,1.2,0.3,Normal,Flying,"Keen Eye, Skill Link, Pickup",National Dex
+732,Trumbeak,55,85,50,40,50,75,14.8,0.6,Normal,Flying,"Keen Eye, Skill Link, Pickup",National Dex
+733,Toucannon,80,120,75,75,75,60,26,1.1,Normal,Flying,"Keen Eye, Skill Link, Sheer Force",National Dex
+734,Yungoos,48,70,30,30,30,45,6,0.4,Normal,NA,"Stakeout, Strong Jaw, Adaptability",LC
+735,Gumshoos,88,110,60,55,60,45,14.2,0.7,Normal,NA,"Stakeout, Strong Jaw, Adaptability",Untiered
+735,Gumshoos-Totem,88,110,60,55,60,45,60,1.4,Normal,NA,Adaptability,National Dex
+736,Grubbin,47,62,45,55,45,46,4.4,0.4,Bug,NA,Swarm,LC
+737,Charjabug,57,82,95,55,75,36,10.5,0.5,Bug,Electric,Battery,NFE
+738,Vikavolt,77,70,90,145,75,43,45,1.5,Bug,Electric,Levitate,NU
+738,Vikavolt-Totem,77,70,90,145,75,43,147.5,2.6,Bug,Electric,Levitate,National Dex
+739,Crabrawler,47,82,57,42,47,63,7,0.6,Fighting,NA,"Hyper Cutter, Iron Fist, Anger Point",LC
+74,Geodude,40,80,100,30,30,20,20,0.4,Rock,Ground,"Rock Head, Sturdy, Sand Veil",LC
+74,Geodude-Alola,40,80,100,30,30,20,20.3,0.4,Rock,Electric,"Magnet Pull, Sturdy, Galvanize",LC
+740,Crabominable,97,132,77,62,67,43,180,1.7,Fighting,Ice,"Hyper Cutter, Iron Fist, Anger Point",Untiered
+741,Oricorio,75,70,70,98,70,93,3.4,0.6,Fire,Flying,Dancer,NUBL
+741,Oricorio-Pa'u,75,70,70,98,70,93,3.4,0.6,Psychic,Flying,Dancer,PUBL
+741,Oricorio-Pom-Pom,75,70,70,98,70,93,3.4,0.6,Electric,Flying,Dancer,NUBL
+741,Oricorio-Sensu,75,70,70,98,70,93,3.4,0.6,Ghost,Flying,Dancer,NUBL
+742,Cutiefly,40,45,40,55,40,84,0.2,0.1,Bug,Fairy,"Honey Gather, Shield Dust, Sweet Veil",NFE
+743,Ribombee,60,55,60,95,70,124,0.5,0.2,Bug,Fairy,"Honey Gather, Shield Dust, Sweet Veil",OU
+743,Ribombee-Totem,60,55,60,95,70,124,2,0.4,Bug,Fairy,Sweet Veil,National Dex
+744,Rockruff,45,65,40,30,40,60,9.2,0.5,Rock,NA,"Keen Eye, Vital Spirit, Steadfast, Own Tempo",LC
+745,Lycanroc,75,115,65,55,65,112,25,0.8,Rock,NA,"Keen Eye, Sand Rush, Steadfast",NU
+745,Lycanroc-Dusk,75,117,65,55,65,110,25,0.8,Rock,NA,Tough Claws,RU
+745,Lycanroc-Midnight,85,115,75,55,75,82,25,1.1,Rock,NA,"Keen Eye, Vital Spirit, No Guard",Untiered
+746,Wishiwashi,45,20,20,25,25,40,0.3,0.2,Water,NA,Schooling,National Dex
+747,Mareanie,50,53,62,43,52,45,8,0.4,Poison,Water,"Merciless, Limber, Regenerator",LC
+748,Toxapex,50,63,152,53,142,35,14.5,0.7,Poison,Water,"Merciless, Limber, Regenerator",OU
+749,Mudbray,70,100,70,45,55,45,110,1,Ground,NA,"Own Tempo, Stamina, Inner Focus",LC
+75,Graveler,55,95,115,45,45,35,105,1,Rock,Ground,"Rock Head, Sturdy, Sand Veil",NFE
+75,Graveler-Alola,55,95,115,45,45,35,110,1,Rock,Electric,"Magnet Pull, Sturdy, Galvanize",NFE
+750,Mudsdale,100,125,100,55,85,35,920,2.5,Ground,NA,"Own Tempo, Stamina, Inner Focus",RU
+751,Dewpider,38,40,52,40,72,27,4,0.3,Water,Bug,"Water Bubble, Water Absorb",National Dex
+752,Araquanid,68,70,92,50,132,42,82,1.8,Water,Bug,"Water Bubble, Water Absorb",National Dex
+752,Araquanid-Totem,68,70,92,50,132,42,217.5,3.1,Water,Bug,Water Bubble,National Dex
+753,Fomantis,40,55,35,50,35,35,1.5,0.3,Grass,NA,"Leaf Guard, Contrary",LC
+754,Lurantis,70,105,90,80,90,45,18.5,0.9,Grass,NA,"Leaf Guard, Contrary",PU
+754,Lurantis-Totem,70,105,90,80,90,45,58,1.5,Grass,NA,Leaf Guard,National Dex
+755,Morelull,40,35,55,65,75,15,1.5,0.2,Grass,Fairy,"Illuminate, Effect Spore, Rain Dish",National Dex
+756,Shiinotic,60,45,80,90,100,30,11.5,1,Grass,Fairy,"Illuminate, Effect Spore, Rain Dish",National Dex
+757,Salandit,48,44,40,71,40,77,4.8,0.6,Poison,Fire,"Corrosion, Oblivious",LC
+758,Salazzle,68,64,60,111,60,117,22.2,1.2,Poison,Fire,"Corrosion, Oblivious",NU
+758,Salazzle-Totem,68,64,60,111,60,117,81,2.1,Poison,Fire,Corrosion,National Dex
+759,Stufful,70,75,50,45,50,50,6.8,0.5,Normal,Fighting,"Fluffy, Klutz, Cute Charm",National Dex
+76,Golem,80,120,130,55,65,45,300,1.4,Rock,Ground,"Rock Head, Sturdy, Sand Veil",PU
+76,Golem-Alola,80,120,130,55,65,45,316,1.7,Rock,Electric,"Magnet Pull, Sturdy, Galvanize",PU
+760,Bewear,120,125,80,55,60,60,135,2.1,Normal,Fighting,"Fluffy, Klutz, Unnerve",National Dex
+761,Bounsweet,42,30,38,30,38,32,3.2,0.3,Grass,NA,"Leaf Guard, Oblivious, Sweet Veil",LC
+762,Steenee,52,40,48,40,48,62,8.2,0.7,Grass,NA,"Leaf Guard, Oblivious, Sweet Veil",NFE
+763,Tsareena,72,120,98,50,98,72,21.4,1.2,Grass,NA,"Leaf Guard, Queenly Majesty, Sweet Veil",RU
+764,Comfey,51,52,90,82,110,100,0.3,0.1,Fairy,NA,"Flower Veil, Triage, Natural Cure",National Dex
+765,Oranguru,90,60,80,90,110,60,76,1.5,Normal,Psychic,"Inner Focus, Telepathy, Symbiosis",Untiered
+766,Passimian,100,120,90,40,60,80,82.8,2,Fighting,NA,"Receiver, Defiant",PU
+767,Wimpod,25,35,40,20,30,80,12,0.5,Bug,Water,Wimp Out,National Dex
+768,Golisopod,75,125,140,60,90,40,108,2,Bug,Water,Emergency Exit,National Dex
+769,Sandygast,55,55,80,70,45,15,70,0.5,Ghost,Ground,"Water Compaction, Sand Veil",LC
+77,Ponyta,50,85,55,65,65,90,30,1,Fire,NA,"Run Away, Flash Fire, Flame Body",National Dex
+77,Ponyta-Galar,50,85,55,65,65,90,24,0.8,Psychic,NA,"Run Away, Pastel Veil, Anticipation",National Dex
+770,Palossand,85,75,110,100,75,35,250,1.3,Ghost,Ground,"Water Compaction, Sand Veil",NU
+771,Pyukumuku,55,60,130,30,130,5,1.2,0.3,Water,NA,"Innards Out, Unaware",National Dex
+772,Type: Null,95,95,95,95,95,59,120.5,1.9,Normal,NA,Battle Armor,National Dex
+773,Silvally,95,95,95,95,95,95,100.5,2.3,Normal,NA,RKS System,National Dex
+773,Silvally-Bug,95,95,95,95,95,95,100.5,2.3,Bug,NA,RKS System,National Dex
+773,Silvally-Dark,95,95,95,95,95,95,100.5,2.3,Dark,NA,RKS System,National Dex
+773,Silvally-Dragon,95,95,95,95,95,95,100.5,2.3,Dragon,NA,RKS System,National Dex
+773,Silvally-Electric,95,95,95,95,95,95,100.5,2.3,Electric,NA,RKS System,National Dex
+773,Silvally-Fairy,95,95,95,95,95,95,100.5,2.3,Fairy,NA,RKS System,National Dex
+773,Silvally-Fighting,95,95,95,95,95,95,100.5,2.3,Fighting,NA,RKS System,National Dex
+773,Silvally-Fire,95,95,95,95,95,95,100.5,2.3,Fire,NA,RKS System,National Dex
+773,Silvally-Flying,95,95,95,95,95,95,100.5,2.3,Flying,NA,RKS System,National Dex
+773,Silvally-Ghost,95,95,95,95,95,95,100.5,2.3,Ghost,NA,RKS System,National Dex
+773,Silvally-Grass,95,95,95,95,95,95,100.5,2.3,Grass,NA,RKS System,National Dex
+773,Silvally-Ground,95,95,95,95,95,95,100.5,2.3,Ground,NA,RKS System,National Dex
+773,Silvally-Ice,95,95,95,95,95,95,100.5,2.3,Ice,NA,RKS System,National Dex
+773,Silvally-Poison,95,95,95,95,95,95,100.5,2.3,Poison,NA,RKS System,National Dex
+773,Silvally-Psychic,95,95,95,95,95,95,100.5,2.3,Psychic,NA,RKS System,National Dex
+773,Silvally-Rock,95,95,95,95,95,95,100.5,2.3,Rock,NA,RKS System,National Dex
+773,Silvally-Steel,95,95,95,95,95,95,100.5,2.3,Steel,NA,RKS System,National Dex
+773,Silvally-Water,95,95,95,95,95,95,100.5,2.3,Water,NA,RKS System,National Dex
+777,Minior,60,100,60,100,73,96,13,0.6,Electric,Steel,Sturdy,National Dex
+778,Mimikyu,55,90,80,50,105,96,0.7,0.2,Ghost,Fairy,Disguise,RU
+778,Mimikyu-Totem,55,90,80,50,105,96,2.8,0.4,Ghost,Fairy,Disguise,National Dex
+779,Bruxish,68,105,70,70,70,92,19,0.9,Water,Psychic,"Dazzling, Strong Jaw, Wonder Skin",NU
+78,Rapidash,65,100,70,80,80,105,95,1.7,Fire,NA,"Run Away, Flash Fire, Flame Body",National Dex
+78,Rapidash-Galar,65,100,70,80,80,105,80,1.7,Psychic,Fairy,"Run Away, Pastel Veil, Anticipation",National Dex
+780,Drampa,78,60,85,135,91,36,185,3,Normal,Dragon,"Berserk, Sap Sipper, Cloud Nine",National Dex
+781,Dhelmise,70,131,100,86,90,40,210,3.9,Ghost,Grass,Steelworker,National Dex
+782,Jangmo-o,45,55,65,45,45,45,29.7,0.6,Dragon,NA,"Bulletproof, Soundproof, Overcoat",LC
+784,Hakamo-o,55,75,90,65,,,,,,NA,,
+785,Tapu Koko,70,115,85,95,75,130,20.5,1.8,Electric,Fairy,Electric Surge,National Dex
+786,Tapu Lele,70,85,75,130,115,95,18.6,1.2,Psychic,Fairy,Psychic Surge,National Dex
+787,Tapu Bulu,70,130,115,85,95,75,45.5,1.9,Grass,Fairy,Grassy Surge,National Dex
+788,Tapu Fini,70,75,115,95,130,85,21.2,1.3,Water,Fairy,Misty Surge,National Dex
+789,Cosmog,43,29,31,29,31,37,0.1,0.2,Psychic,NA,Unaware,National Dex
+79,Slowpoke,90,65,65,40,40,15,36,1.2,Water,Psychic,"Oblivious, Own Tempo, Regenerator",LC
+79,Slowpoke-Galar,90,65,65,40,40,15,36,1.2,Psychic,NA,"Gluttony, Own Tempo, Regenerator",LC
+790,Cosmoem,43,29,131,29,131,37,999.9,0.1,Psychic,NA,Sturdy,National Dex
+791,Solgaleo,137,137,107,113,89,97,230,3.4,Psychic,Steel,Full Metal Body,National Dex
+792,Lunala,137,113,89,137,107,97,120,4,Psychic,Ghost,Shadow Shield,National Dex
+793,Nihilego,109,53,47,127,131,103,55.5,1.2,Rock,Poison,Beast Boost,National Dex
+794,Buzzwole,107,139,139,53,53,79,333.6,2.4,Bug,Fighting,Beast Boost,National Dex
+795,Pheromosa,71,137,37,137,37,151,25,1.8,Bug,Fighting,Beast Boost,National Dex
+796,Xurkitree,83,89,71,173,71,83,100,3.8,Electric,NA,Beast Boost,National Dex
+797,Celesteela,97,101,103,107,101,61,999.9,9.2,Steel,Flying,Beast Boost,National Dex
+798,Kartana,59,181,131,59,31,109,0.1,0.3,Grass,Steel,Beast Boost,National Dex
+799,Guzzlord,223,101,53,97,53,43,888,5.5,Dark,Dragon,Beast Boost,National Dex
+8,Wartortle,59,63,80,65,80,58,22.5,1,Water,NA,"Torrent, Rain Dish",National Dex
+80,Slowbro,95,75,110,100,80,30,78.5,1.6,Water,Psychic,"Oblivious, Own Tempo, Regenerator",RU
+80,Slowbro-Galar,95,100,95,100,70,30,70.5,1.6,Poison,Psychic,"Quick Draw, Own Tempo, Regenerator",NUBL
+800,Necrozma,97,107,101,127,89,79,230,2.4,Psychic,NA,Prism Armor,National Dex
+800,Necrozma-Dawn Wings,97,113,109,157,127,77,350,4.2,Psychic,Ghost,Prism Armor,National Dex
+800,Necrozma-Dusk Mane,97,157,127,113,109,77,460,3.8,Psychic,Steel,Prism Armor,National Dex
+801,Magearna,80,95,115,130,115,65,80.5,1,Steel,Fairy,Soul-Heart,Uber
+801,Magearna-Original,80,95,115,130,115,65,80.5,1,Steel,Fairy,Soul-Heart,Uber
+802,Marshadow,90,125,80,90,90,125,22.2,0.7,Fighting,Ghost,Technician,National Dex
+803,Poipole,67,73,67,73,67,73,1.8,0.6,Poison,NA,Beast Boost,National Dex
+804,Naganadel,73,73,73,127,73,121,150,3.6,Poison,Dragon,Beast Boost,National Dex
+805,Stakataka,61,131,211,53,101,13,820,5.5,Rock,Steel,Beast Boost,National Dex
+806,Blacephalon,53,127,53,151,79,107,13,1.8,Fire,Ghost,Beast Boost,National Dex
+807,Zeraora,88,112,75,102,80,143,44.5,1.5,Electric,NA,Volt Absorb,National Dex
+808,Meltan,46,65,65,55,35,34,8,0.2,Steel,NA,Magnet Pull,National Dex
+809,Melmetal,135,143,143,80,65,34,800,2.5,Steel,NA,Iron Fist,National Dex
+81,Magnemite,25,35,70,95,55,45,6,0.3,Electric,Steel,"Magnet Pull, Sturdy, Analytic",LC
+810,Grookey,50,65,50,40,40,65,5,0.3,Grass,NA,"Overgrow, Grassy Surge",LC
+811,Thwackey,70,85,70,55,60,80,14,0.7,Grass,NA,"Overgrow, Grassy Surge",PU
+812,Rillaboom,100,125,90,60,70,85,90,2.1,Grass,NA,"Overgrow, Grassy Surge",OU
+813,Scorbunny,50,71,40,40,40,69,4.5,0.3,Fire,NA,"Blaze, Libero",LC
+814,Raboot,65,86,60,55,60,94,9,0.6,Fire,NA,"Blaze, Libero",NFE
+815,Cinderace,80,116,75,65,75,119,33,1.4,Fire,NA,"Blaze, Libero",OU
+816,Sobble,50,40,40,70,40,70,4,0.3,Water,NA,"Torrent, Sniper",LC
+817,Drizzile,65,60,55,95,55,90,11.5,0.7,Water,NA,"Torrent, Sniper",NFE
+818,Inteleon,70,85,65,125,65,120,45.2,1.9,Water,NA,"Torrent, Sniper",NUBL
+819,Skwovet,70,55,55,35,35,25,2.5,0.3,Normal,NA,"Cheek Pouch, Gluttony",LC
+821,Rookidee,38,47,35,33,35,57,1.8,0.2,Flying,NA,"Keen Eye, Unnerve, Big Pecks",LC
+822,Corvisquire,68,67,55,43,55,77,16,0.8,Flying,NA,"Keen Eye, Unnerve, Big Pecks",NFE
+823,Corviknight,98,87,105,53,85,67,75,2.2,Flying,Steel,"Pressure, Unnerve, Mirror Armor",OU
+824,Blipbug,25,20,20,25,45,45,8,0.4,Bug,NA,"Swarm, Compound Eyes, Telepathy",National Dex
+825,Dottler,50,35,80,50,90,30,19.5,0.4,Bug,Psychic,"Swarm, Compound Eyes, Telepathy",National Dex
+826,Orbeetle,60,45,110,80,120,90,40.8,0.4,Bug,Psychic,"Swarm, Frisk, Telepathy",National Dex
+827,Nickit,40,28,28,47,52,50,8.9,0.6,Dark,NA,"Run Away, Unburden, Stakeout",National Dex
+828,Thievul,70,58,58,87,92,90,19.9,1.2,Dark,NA,"Run Away, Unburden, Stakeout",National Dex
+829,Gossifleur,40,40,60,40,60,10,2.2,0.4,Grass,NA,"Cotton Down, Regenerator, Effect Spore",National Dex
+83,Farfetch'd,52,90,55,58,62,60,15,0.8,Normal,Flying,"Keen Eye, Inner Focus, Defiant",National Dex
+83,Farfetch'd-Galar,52,95,55,58,62,55,42,0.8,Fighting,NA,"Steadfast, Scrappy",National Dex
+830,Eldegoss,60,50,90,80,120,60,2.5,0.5,Grass,NA,"Cotton Down, Regenerator, Effect Spore",National Dex
+831,Wooloo,42,40,55,40,45,48,6,0.6,Normal,NA,"Fluffy, Run Away, Bulletproof",National Dex
+832,Dubwool,72,80,100,60,90,88,43,1.3,Normal,NA,"Fluffy, Steadfast, Bulletproof",National Dex
+833,Chewtle,50,64,50,38,38,44,8.5,0.3,Water,NA,"Strong Jaw, Shell Armor, Swift Swim",LC
+834,Drednaw,90,115,90,48,68,74,115.5,1,Water,Rock,"Strong Jaw, Shell Armor, Swift Swim",NUBL
+835,Yamper,59,45,50,40,50,26,13.5,0.3,Electric,NA,"Ball Fetch, Rattled",National Dex
+836,Boltund,69,90,60,90,60,121,34,1,Electric,NA,"Strong Jaw, Competitive",National Dex
+837,Rolycoly,30,40,50,40,50,30,12,0.3,Rock,NA,"Steam Engine, Heatproof, Flash Fire",LC
+838,Carkol,80,60,90,60,70,50,78,1.1,Rock,Fire,"Steam Engine, Flame Body, Flash Fire",NFE
+839,Coalossal,110,80,120,80,90,30,310.5,2.8,Rock,Fire,"Steam Engine, Flame Body, Flash Fire",NU
+84,Doduo,35,85,45,35,35,75,39.2,1.4,Normal,Flying,"Run Away, Early Bird, Tangled Feet",National Dex
+840,Applin,40,40,80,40,40,20,0.5,0.2,Grass,Dragon,"Ripen, Gluttony, Bulletproof",LC
+841,Flapple,70,110,80,95,60,70,1,0.3,Grass,Dragon,"Ripen, Gluttony, Hustle",Untiered
+842,Appletun,110,85,80,100,80,30,13,0.4,Grass,Dragon,"Ripen, Gluttony, Thick Fat",PU
+843,Silicobra,52,57,75,35,50,46,7.6,2.2,Ground,NA,"Sand Spit, Shed Skin, Sand Veil",LC
+844,Sandaconda,72,107,125,65,70,71,65.5,3.8,Ground,NA,"Sand Spit, Shed Skin, Sand Veil",NU
+845,Cramorant,70,85,55,85,95,85,18,0.8,Flying,Water,Gulp Missile,PU
+846,Arrokuda,41,63,40,40,30,66,1,0.5,Water,NA,"Swift Swim, Propeller Tail",LC
+847,Barraskewda,61,123,60,60,50,136,30,1.3,Water,NA,"Swift Swim, Propeller Tail",RU
+848,Toxel,40,38,35,54,35,40,11,0.4,Electric,Poison,"Rattled, Static, Klutz",LC
+849,Toxtricity,75,98,70,114,70,75,40,1.6,Electric,Poison,"Punk Rock, Plus, Technician",NUBL
+849,Toxtricity-Low-Key,75,98,70,114,70,75,40,1.6,Electric,Poison,"Punk Rock, Minus, Technician",NUBL
+85,Dodrio,60,110,70,60,60,110,85.2,1.8,Normal,Flying,"Run Away, Early Bird, Tangled Feet",National Dex
+850,Sizzlipede,50,65,45,50,50,45,1,0.7,Fire,Bug,"Flash Fire, White Smoke, Flame Body",National Dex
+851,Centiskorch,100,115,65,90,90,65,120,3,Fire,Bug,"Flash Fire, White Smoke, Flame Body",National Dex
+852,Clobbopus,50,68,60,50,50,32,4,0.6,Fighting,NA,"Limber, Technician",National Dex
+853,Grapploct,80,118,90,70,80,42,39,1.6,Fighting,NA,"Limber, Technician",National Dex
+854,Sinistea,40,45,45,74,54,50,0.2,0.1,Ghost,NA,"Weak Armor, Cursed Body",LC
+854,Sinistea-Antique,40,45,45,74,54,50,0.2,0.1,Ghost,NA,"Weak Armor, Cursed Body",LC
+855,Polteageist,60,65,65,134,114,70,0.4,0.2,Ghost,NA,"Weak Armor, Cursed Body",RUBL
+855,Polteageist-Antique,60,65,65,134,114,70,0.4,0.2,Ghost,NA,"Weak Armor, Cursed Body",RUBL
+856,Hatenna,42,30,45,56,53,39,3.4,0.4,Psychic,NA,"Healer, Anticipation, Magic Bounce",LC
+857,Hattrem,57,40,65,86,73,49,4.8,0.6,Psychic,NA,"Healer, Anticipation, Magic Bounce",PU
+858,Hatterene,57,90,95,136,103,29,5.1,2.1,Psychic,Fairy,"Healer, Anticipation, Magic Bounce",OU
+859,Impidimp,45,45,30,55,40,50,5.5,0.4,Dark,Fairy,"Prankster, Frisk, Pickpocket",LC
+86,Seel,65,45,55,45,70,45,90,1.1,Water,NA,"Thick Fat, Hydration, Ice Body",National Dex
+860,Morgrem,65,60,45,75,55,70,12.5,0.8,Dark,Fairy,"Prankster, Frisk, Pickpocket",NFE
+861,Grimmsnarl,95,120,65,95,75,60,61,1.5,Dark,Fairy,"Prankster, Frisk, Pickpocket",UU
+862,Obstagoon,93,90,101,60,81,95,46,1.6,Dark,Normal,"Reckless, Guts, Defiant",National Dex
+863,Perrserker,70,110,100,50,60,50,28,0.8,Steel,NA,"Battle Armor, Tough Claws, Steely Spirit",PU
+864,Cursola,60,95,50,145,130,30,0.4,1,Ghost,NA,"Weak Armor, Perish Body",National Dex
+865,Sirfetch'd,62,135,95,68,82,65,117,0.8,Fighting,NA,"Steadfast, Scrappy",National Dex
+866,Mr. Rime,80,85,75,110,100,70,58.2,1.5,Ice,Psychic,"Tangled Feet, Screen Cleaner, Ice Body",National Dex
+867,Runerigus,58,95,145,50,105,30,66.6,1.6,Ground,Ghost,Wandering Spirit,National Dex
+868,Milcery,45,40,40,50,61,34,0.3,0.2,Fairy,NA,"Sweet Veil, Aroma Veil",National Dex
+869,Alcremie,65,60,75,110,121,64,0.5,0.3,Fairy,NA,"Sweet Veil, Aroma Veil",National Dex
+87,Dewgong,90,70,80,70,95,70,120,1.7,Water,Ice,"Thick Fat, Hydration, Ice Body",National Dex
+870,Falinks,65,100,100,70,60,75,62,3,Fighting,NA,"Battle Armor, Defiant",Untiered
+871,Pincurchin,48,101,95,91,85,15,1,0.3,Electric,NA,"Lightning Rod, Electric Surge",Untiered
+872,Snom,30,25,35,45,30,20,3.8,0.3,Ice,Bug,"Shield Dust, Ice Scales",LC
+873,Frosmoth,70,65,60,125,90,65,42,1.3,Ice,Bug,"Shield Dust, Ice Scales",NUBL
+874,Stonjourner,100,125,135,20,20,70,520,2.5,Rock,NA,Power Spot,Untiered
+875,Eiscue,75,80,110,65,90,50,89,1.4,Ice,NA,Ice Face,Untiered
+876,Indeedee,60,65,55,105,95,95,28,0.9,Psychic,Normal,"Inner Focus, Synchronize, Psychic Surge",PU
+876,Indeedee-F,70,55,65,95,105,85,28,0.9,Psychic,Normal,"Own Tempo, Synchronize, Psychic Surge",Untiered
+877,Morpeko,58,95,58,70,58,97,3,0.3,Electric,Dark,Hunger Switch,PU
+878,Cufant,72,80,49,40,49,40,100,1.2,Steel,NA,"Sheer Force, Heavy Metal",LC
+879,Copperajah,122,130,69,80,69,30,650,3,Steel,NA,"Sheer Force, Heavy Metal",NU
+88,Grimer,80,80,50,40,50,25,30,0.9,Poison,NA,"Stench, Sticky Hold, Poison Touch",LC
+88,Grimer-Alola,80,80,50,40,50,25,42,0.7,Poison,Dark,"Pois}on Touch, Gluttony, Power of Alchemy",LC
+880,Dracozolt,90,100,90,80,70,75,190,1.8,Electric,Dragon,"Volt Absorb, Hustle, Sand Rush",National Dex
+881,Arctozolt,90,100,90,90,80,55,150,2.3,Electric,Ice,"Volt Absorb, Static, Slush Rush",National Dex
+882,Dracovish,90,90,100,70,80,75,215,2.3,Water,Dragon,"Water Absorb, Strong Jaw, Sand Rush",National Dex
+883,Arctovish,90,90,100,80,90,55,175,2,Water,Ice,"Water Absorb, Ice Body, Slush Rush",National Dex
+884,Duraludon,70,95,115,120,50,85,40,1.8,Steel,Dragon,"Light Metal, Heavy Metal, Stalwart",National Dex
+888,Dreepy,,,,,,,,,,NA,,
+888,Zacian-Crowned,92,150,115,80,115,148,355,2.8,Fairy,Steel,Intrepid Sword,Uber
+889,Zamazenta,92,120,115,80,115,138,210,2.9,Fighting,NA,Dauntless Shield,OU
+889,Zamazenta-Crowned,92,120,140,80,140,128,785,2.9,Fighting,Steel,Dauntless Shield,Uber
+89,Muk,105,105,75,65,100,50,30,1.2,Poison,NA,"Stench, Sticky Hold, Poison Touch",PU
+89,Muk-Alola,105,105,75,65,100,50,52,1,Poison,Dark,"Poison Touch, Gluttony, Power of Alchemy",RU
+890,Eternatus,140,85,95,145,95,130,950,20,Poison,Dragon,Pressure,Uber
+891,Kubfu,60,90,60,53,50,72,12,0.6,Fighting,NA,Inner Focus,NFE
+892,Urshifu,100,130,100,63,60,97,105,1.9,Fighting,Dark,Unseen Fist,Uber
+892,Urshifu-Rapid-Strike,100,130,100,63,60,97,105,1.9,Fighting,Water,Unseen Fist,Uber
+893,Zarude,105,120,105,70,95,105,70,1.8,Dark,Grass,Leaf Guard,RUBL
+893,Zarude-Dada,105,120,105,70,95,105,70,1.8,Dark,Grass,Leaf Guard,RUBL
+894,Regieleki,80,100,50,100,50,200,145,1.2,Electric,NA,Transistor,Uber
+895,Regidrago,200,100,50,100,50,80,200,2.1,Dragon,NA,Dragon's Maw,RUBL
+896,Glastrier,100,145,130,65,110,30,800,2.2,Ice,NA,Chilling Neigh,NU
+897,Spectrier,100,65,60,145,80,130,44.5,2,Ghost,NA,Grim Neigh,Uber
+898,Calyrex,100,80,80,80,80,80,7.7,1.1,Psychic,Grass,Unnerve,Untiered
+898,Calyrex-Ice,100,165,150,85,130,50,809.1,2.4,Psychic,Ice,As One (Glastrier),Uber
+898,Calyrex-Shadow,100,85,80,165,100,150,53.6,2.4,Psychic,Ghost,As One (Spectrier),AG
+899,Wyrdeer,103,105,72,105,75,65,95.1,1.8,Normal,Psychic,"Intimidate, Frisk, Sap Sipper",Untiered
+9,Blastoise,79,83,100,85,105,78,85.5,1.6,Water,NA,"Torrent, Rain Dish",National Dex
+90,Shellder,30,65,100,45,25,40,4,0.3,Water,NA,"Shell Armor, Skill Link, Overcoat",LC
+900,Kleavor,70,135,95,45,70,85,89,1.8,Bug,Rock,"Swarm, Sheer Force, Sharpness",UU
+901,Ursaluna,130,140,105,45,80,50,290,2.4,Ground,Normal,"Guts, Bulletproof, Unnerve",UU
+901,Ursaluna-Bloodmoon,113,70,120,135,65,52,333,2.7,Ground,Normal,Mind's Eye,Uber
+902,Basculegion,120,112,65,80,75,78,110,3,Water,Ghost,"Swift Swim, Adaptability, Mold Breaker",RU
+902,Basculegion-F,120,92,65,100,75,78,110,3,Water,Ghost,"Swift Swim, Adaptability, Mold Breaker",UU
+903,Sneasler,80,130,60,40,80,120,43,1.3,Fighting,Poison,"Pressure, Unburden, Poison Touch",Uber
+904,Overqwil,85,115,95,65,65,85,60.5,2.5,Dark,Poison,"Poison Point, Swift Swim, Intimidate",RU
+905,Enamorus,74,115,70,135,80,106,48,1.6,Fairy,Flying,"Cute Charm, Contrary",OU
+905,Enamorus-Therian,74,115,110,135,100,46,48,1.6,Fairy,Flying,Overcoat,UU
+906,Sprigatito,40,61,54,45,45,65,4.1,0.4,Grass,NA,"Overgrow, Protean",LC
+907,Floragato,61,80,63,60,63,83,12.2,0.9,Grass,NA,"Overgrow, Protean",NFE
+908,Meowscarada,76,110,70,81,70,123,31.2,1.5,Grass,Dark,"Overgrow, Protean",UU
+909,Fuecoco,67,45,59,63,40,36,9.8,0.4,Fire,NA,"Blaze, Unaware",LC
+91,Cloyster,50,95,180,85,45,70,132.5,1.5,Water,Ice,"Shell Armor, Skill Link, Overcoat",RU
+910,Crocalor,81,55,78,90,58,49,30.7,1,Fire,NA,"Blaze, Unaware",NFE
+911,Skeledirge,104,75,100,110,75,66,326.5,1.6,Fire,Ghost,"Blaze, Unaware",UU
+912,Quaxly,55,65,45,50,45,50,6.1,0.5,Water,NA,"Torrent, Moxie",LC
+913,Quaxwell,70,85,65,65,60,65,21.5,1.2,Water,NA,"Torrent, Moxie",NFE
+914,Quaquaval,85,120,80,85,75,85,61.9,1.8,Water,Fighting,"Torrent, Moxie",UU
+915,Lechonk,54,45,40,35,45,35,10.2,0.5,Normal,NA,"Aroma Veil, Gluttony, Thick Fat",LC
+916,Oinkologne,110,100,75,59,80,65,120,1,Normal,NA,"Lingering Aroma, Gluttony, Thick Fat",Untiered
+916,Oinkologne-F,115,90,70,59,90,65,120,1,Normal,NA,"Aroma Veil, Gluttony, Thick Fat",Untiered
+917,Tarountula,35,41,45,29,40,20,4,0.3,Bug,NA,"Insomnia, Stakeout",LC
+918,Spidops,60,79,92,52,86,35,16.5,1,Bug,NA,"Insomnia, Stakeout",Untiered
+919,Nymble,33,46,40,21,25,45,1,0.2,Bug,NA,"Swarm, Tinted Lens",LC
+92,Gastly,30,35,30,100,35,80,0.1,1.3,Ghost,Poison,Levitate,NFE
+920,Lokix,71,102,78,52,55,92,17.5,1,Bug,Dark,"Swarm, Tinted Lens",UU
+921,Pawmi,45,50,20,40,25,60,2.5,0.3,Electric,NA,"Static, Natural Cure, Iron Fist",LC
+922,Pawmo,60,75,40,50,40,85,6.5,0.4,Electric,Fighting,"Volt Absorb, Natural Cure, Iron Fist",NFE
+923,Pawmot,70,115,70,70,60,105,41,0.9,Electric,Fighting,"Volt Absorb, Natural Cure, Iron Fist",RU
+924,Tandemaus,50,50,45,40,45,75,1.8,0.3,Normal,NA,"Run Away, Pickup, Own Tempo",LC
+925,Maushold,74,75,70,65,75,111,2.3,0.3,Normal,NA,"Friend Guard, Cheek Pouch, Technician",RU
+925,Maushold-Four,74,75,70,65,75,111,2.8,0.3,Normal,NA,"Friend Guard, Cheek Pouch, Technician",RU
+926,Fidough,37,55,70,30,55,65,10.9,0.3,Fairy,NA,"Own Tempo, Klutz",LC
+927,Dachsbun,57,80,115,50,80,95,14.9,0.5,Fairy,NA,"Well-Baked Body, Aroma Veil",Untiered
+928,Smoliv,41,35,45,58,51,30,6.5,0.3,Grass,Normal,"Early Bird, Harvest",LC
+929,Dolliv,52,53,60,78,78,33,11.9,0.6,Grass,Normal,"Early Bird, Harvest",NFE
+93,Haunter,45,50,45,115,55,95,0.1,1.6,Ghost,Poison,Levitate,PU
+930,Arboliva,78,69,90,125,109,39,48.2,1.4,Grass,Normal,"Seed Sower, Harvest",PU
+931,Squawkabilly,82,96,51,45,51,92,2.4,0.6,Normal,Flying,"Intimidate, Hustle, Guts",Untiered
+931,Squawkabilly-Blue,82,96,51,45,51,92,2.4,0.6,Normal,Flying,"Intimidate, Hustle, Guts",Untiered
+931,Squawkabilly-White,82,96,51,45,51,92,2.4,0.6,Normal,Flying,"Intimidate, Hustle, Sheer Force",Untiered
+931,Squawkabilly-Yellow,82,96,51,45,51,92,2.4,0.6,Normal,Flying,"Intimidate, Hustle, Sheer Force",Untiered
+932,Nacli,55,55,75,35,35,25,16,0.4,Rock,NA,"Purifying Salt, Sturdy, Clear Body",LC
+933,Naclstack,60,60,100,35,65,35,105,0.6,Rock,NA,"Purifying Salt, Sturdy, Clear Body",PU
+934,Garganacl,100,100,130,45,90,35,240,2.3,Rock,NA,"Purifying Salt, Sturdy, Clear Body",UUBL
+935,Charcadet,40,50,40,50,40,35,10.5,0.6,Fire,NA,"Flash Fire, Flame Body",LC
+936,Armarouge,85,60,100,125,80,75,85,1.5,Fire,Psychic,"Flash Fire, Weak Armor",RU
+937,Ceruledge,75,125,80,60,100,85,62,1.6,Fire,Ghost,"Flash Fire, Weak Armor",OU
+938,Tadbulb,61,31,41,59,35,45,0.4,0.3,Electric,NA,"Own Tempo, Static, Damp",LC
+939,Bellibolt,109,64,91,103,83,45,113,1.2,Electric,NA,"Electromorphosis, Static, Damp",RU
+94,Gengar,60,65,60,130,75,110,40.5,1.5,Ghost,Poison,Cursed Body,UU
+940,Wattrel,40,40,35,55,40,70,3.6,0.4,Electric,Flying,"Wind Power, Volt Absorb, Competitive",LC
+941,Kilowattrel,70,70,60,105,60,125,38.6,1.4,Electric,Flying,"Wind Power, Volt Absorb, Competitive",RU
+942,Maschiff,60,78,60,40,51,51,16,0.5,Dark,NA,"Intimidate, Run Away, Stakeout",LC
+943,Mabosstiff,80,120,90,60,70,85,61,1.1,Dark,NA,"Intimidate, Guard Dog, Stakeout",PU
+944,Shroodle,40,65,35,40,35,75,0.7,0.2,Poison,Normal,"Unburden, Pickpocket, Prankster",LC
+945,Grafaiai,63,95,65,80,72,110,27.2,0.7,Poison,Normal,"Unburden, Poison Touch, Prankster",RU
+946,Bramblin,40,65,30,45,35,60,0.6,0.6,Grass,Ghost,"Wind Rider, Infiltrator",LC
+947,Brambleghast,55,115,70,80,70,90,6,1.2,Grass,Ghost,"Wind Rider, Infiltrator",RU
+948,Toedscool,40,40,35,50,100,70,33,0.9,Ground,Grass,Mycelium Might,LC
+949,Toedscruel,80,70,65,80,120,100,58,1.9,Ground,Grass,Mycelium Might,RU
+95,Onix,35,45,160,30,45,70,210,8.8,Rock,Ground,"Rock Head, Sturdy, Weak Armor",National Dex
+950,Klawf,70,100,115,35,55,75,79,1.3,Rock,NA,"Anger Shell, Shell Armor, Regenerator",PU
+951,Capsakid,50,62,40,62,40,50,3,0.3,Grass,NA,"Chlorophyll, Insomnia, Klutz",LC
+952,Scovillain,65,108,65,108,65,75,15,0.9,Grass,Fire,"Chlorophyll, Insomnia, Moody",Untiered
+953,Rellor,41,50,60,31,58,30,1,0.2,Bug,NA,"Compound Eyes, Shed Skin",LC
+954,Rabsca,75,50,85,115,100,45,3.5,0.3,Bug,Psychic,"Synchronize, Telepathy",Untiered
+955,Flittle,30,35,30,55,30,75,1.5,0.2,Psychic,NA,"Anticipation, Frisk, Speed Boost",NFE
+956,Espathra,95,60,60,101,60,105,90,1.9,Psychic,NA,"Opportunist, Frisk, Speed Boost",Uber
+957,Tinkatink,50,45,45,35,64,58,8.9,0.4,Fairy,Steel,"Mold Breaker, Own Tempo, Pickpocket",LC
+958,Tinkatuff,65,55,55,45,82,78,59.1,0.7,Fairy,Steel,"Mold Breaker, Own Tempo, Pickpocket",NFE
+959,Tinkaton,85,75,77,70,105,94,112.8,0.7,Fairy,Steel,"Mold Breaker, Own Tempo, Pickpocket",RU
+96,Drowzee,60,48,45,43,90,42,32.4,1,Psychic,NA,"Insomnia, Forewarn, Inner Focus",LC
+960,Wiglett,10,55,25,35,25,95,1.8,1.2,Water,NA,"Gooey, Rattled, Sand Veil",LC
+961,Wugtrio,35,100,50,50,70,120,5.4,1.2,Water,NA,"Gooey, Rattled, Sand Veil",Untiered
+962,Bombirdier,70,103,85,60,85,82,42.9,1.5,Flying,Dark,"Big Pecks, Keen Eye, Rocky Payload",PU
+963,Finizen,70,45,40,45,40,75,60.2,1.3,Water,NA,Water Veil,LC
+964,Palafin,100,70,72,53,62,100,60.2,1.3,Water,NA,Zero to Hero,Uber
+965,Varoom,45,70,63,30,45,47,35,1,Steel,Poison,"Overcoat, Slow Start",LC
+966,Revavroom,80,119,90,54,67,90,120,1.8,Steel,Poison,"Overcoat, Filter",RU
+967,Cyclizar,70,95,65,85,65,121,63,1.6,Dragon,Normal,"Shed Skin, Regenerator",RU
+968,Orthworm,70,85,145,60,55,65,310,2.5,Steel,NA,"Earth Eater, Sand Veil",PU
+969,Glimmet,48,35,42,105,60,60,8,0.7,Rock,Poison,"Toxic Debris, Corrosion",LC
+97,Hypno,85,73,70,73,115,67,75.6,1.6,Psychic,NA,"Insomnia, Forewarn, Inner Focus",Untiered
+970,Glimmora,83,55,90,130,81,86,45,1.5,Rock,Poison,"Toxic Debris, Corrosion",OU
+971,Greavard,50,61,60,30,55,34,35,0.6,Ghost,NA,"Pickup, Fluffy",LC
+972,Houndstone,72,101,100,50,97,68,15,2,Ghost,NA,"Sand Rush, Fluffy",PU
+973,Flamigo,82,115,74,75,64,90,37,1.6,Flying,Fighting,"Scrappy, Tangled Feet, Costar",RU
+978,Cetoddle,,,,,95,82,8,0.3,Dragon,Water,"Commander, Storm Drain",NU
+979,Annihilape,110,115,80,50,90,90,56,1.2,Fighting,Ghost,"Vital Spirit, Inner Focus, Defiant",Uber
+98,Krabby,30,105,90,25,25,50,6.5,0.4,Water,NA,"Hyper Cutter, Shell Armor, Sheer Force",National Dex
+980,Clodsire,130,75,60,45,100,20,223,1.8,Poison,Ground,"Poison Point, Water Absorb, Unaware",UU
+981,Farigiraf,120,90,70,110,70,60,160,3.2,Normal,Psychic,"Cud Chew, Armor Tail, Sap Sipper",PU
+982,Dudunsparce,125,100,80,85,75,55,39.2,3.6,Normal,NA,"Serene Grace, Run Away, Rattled",NU
+982,Dudunsparce-Three-Segment,125,100,80,85,75,55,47.4,4.5,Normal,NA,"Serene Grace, Run Away, Rattled",NU
+983,Kingambit,100,135,120,60,85,50,120,2,Dark,Steel,"Defiant, Supreme Overlord, Pressure",OU
+984,Great Tusk,115,131,131,53,53,87,320,2.2,Ground,Fighting,Protosynthesis,OU
+985,Scream Tail,115,65,99,65,115,111,8,1.2,Fairy,Psychic,Protosynthesis,RU
+986,Brute Bonnet,111,127,99,79,99,55,21,1.2,Grass,Dark,Protosynthesis,NUBL
+987,Flutter Mane,55,55,55,135,135,135,4,1.4,Ghost,Fairy,Protosynthesis,Uber
+988,Slither Wing,85,135,79,85,105,81,92,3.2,Bug,Fighting,Protosynthesis,RU
+989,Sandy Shocks,85,81,97,121,85,101,60,2.3,Electric,Ground,Protosynthesis,UU
+99,Kingler,55,130,115,50,50,75,60,1.3,Water,NA,"Hyper Cutter, Shell Armor, Sheer Force",National Dex
+990,Iron Treads,90,112,120,72,70,106,240,0.9,Ground,Steel,Quark Drive,UU
+991,Iron Bundle,56,80,114,124,60,136,11,0.6,Ice,Water,Quark Drive,Uber
+992,Iron Hands,154,140,108,50,68,50,380.7,1.8,Fighting,Electric,Quark Drive,UU
+993,Iron Jugulis,94,80,86,122,80,108,111,1.3,Dark,Flying,Quark Drive,RU
+994,Iron Moth,80,70,60,140,110,110,36,1.2,Fire,Poison,Quark Drive,OU
+995,Iron Thorns,100,134,110,70,84,72,303,1.6,Rock,Electric,Quark Drive,RU
+996,Frigibax,65,75,45,35,45,55,17,0.5,Dragon,Ice,"Thermal Exchange, Ice Body",LC
+997,Arctibax,90,95,66,45,65,62,30,0.8,Dragon,Ice,"Thermal Exchange, Ice Body",NFE
+998,Baxcalibur,115,145,92,75,86,87,210,2.1,Dragon,Ice,"Thermal Exchange, Ice Body",Uber
+999,Gimmighoul,45,30,70,75,70,10,5,0.3,Ghost,NA,Rattled,LC
+999,Gimmighoul-Roaming,45,30,25,75,45,80,0.1,0.1,Ghost,NA,Run Away,LC
+NA,Venusaur-Mega,80,100,123,122,120,80,155.5,2.4,Grass,Poison,Thick Fat,National Dex
+NA,Diancie-Mega,50,160,110,160,110,110,27.8,1.1,Rock,Fairy,Magic Bounce,National Dex
+NA,Eiscue-Noice,75,80,70,65,50,130,89,1.4,Ice,NA,Ice Face,Untiered
+NA,Orbeetle-Gmax,60,45,110,80,120,90,0,14,Bug,Psychic,"Swarm, Frisk, Telepathy",National Dex
+NA,Coalossal-Gmax,110,80,120,80,90,30,0,42,Rock,Fire,"Steam Engine, Flame Body, Flash Fire",National Dex
+NA,Morpeko-Hangry,58,95,58,70,58,97,3,0.3,Electric,Dark,Hunger Switch,PU
+NA,Ogerpon-Hearthflame-Tera,80,120,84,60,96,110,39.8,1.2,Grass,Fire,Embody Aspect (Hearthflame),Uber
+NA,Ogerpon-Wellspring-Tera,80,120,84,60,96,110,39.8,1.2,Grass,Water,Embody Aspect (Wellspring),OU
+NA,Rayquaza-Mega,105,180,100,180,100,115,392,10.8,Dragon,Flying,Delta Stream,National Dex
+NA,Gardevoir-Mega,68,85,65,165,135,100,48.4,1.6,Psychic,Fairy,Pixilate,National Dex
+NA,Darmanitan-Galar-Zen,105,160,55,30,55,135,120,1.7,Ice,Fire,Zen Mode,National Dex
+NA,Charizard-Gmax,78,84,78,109,85,100,0,28,Fire,Flying,"Blaze, Solar Power",National Dex
+NA,Lapras-Gmax,130,85,80,85,95,60,0,24,Water,Ice,"Water Absorb, Shell Armor, Hydration",National Dex
+NA,Sandaconda-Gmax,72,107,125,65,70,71,0,22,Ground,NA,"Sand Spit, Shed Skin, Sand Veil",National Dex
+NA,Metagross-Mega,80,145,150,105,110,110,942.9,2.5,Steel,Psychic,Tough Claws,National Dex
+NA,Ogerpon-Cornerstone-Tera,80,120,84,60,96,110,39.8,1.2,Grass,Rock,Embody Aspect (Cornerstone),OU
+NA,Gyarados-Mega,95,155,109,70,130,81,305,6.5,Water,Dark,Mold Breaker,National Dex
+NA,Scizor-Mega,70,150,140,65,100,75,125,2,Bug,Steel,Technician,National Dex
+NA,Beedrill-Mega,65,150,40,15,80,145,40.5,1.4,Bug,Poison,Adaptability,National Dex
+NA,Ampharos-Mega,90,95,105,165,110,45,61.5,1.4,Electric,Dragon,Mold Breaker,National Dex
+NA,Pinsir-Mega,65,155,120,65,90,105,59,1.7,Bug,Flying,Aerilate,National Dex
+NA,Manectric-Mega,70,75,80,135,80,135,44,1.8,Electric,NA,Intimidate,National Dex
+NA,Grimmsnarl-Gmax,95,120,65,95,75,60,0,32,Dark,Fairy,"Prankster, Frisk, Pickpocket",National Dex
+NA,Greninja-Ash,72,145,67,153,71,132,40,1.5,Water,Dark,Battle Bond,National Dex
+NA,Gengar-Gmax,60,65,60,130,75,110,0,20,Ghost,Poison,Cursed Body,National Dex
+NA,Melmetal-Gmax,135,143,143,80,65,34,0,25,Steel,NA,Iron Fist,National Dex
+NA,Aegislash-Blade,60,150,50,150,50,60,53,1.7,Steel,Ghost,Stance Change,National Dex
+NA,Gallade-Mega,68,165,95,65,115,110,56.4,1.6,Psychic,Fighting,Inner Focus,National Dex
+NA,Mimikyu-Busted,55,90,80,50,105,96,0.7,0.2,Ghost,Fairy,Disguise,RU
+NA,Heracross-Mega,80,185,115,40,105,75,62.5,1.7,Bug,Fighting,Skill Link,National Dex
+NA,Urshifu-Gmax,100,130,100,63,60,97,0,29,Fighting,Dark,Unseen Fist,National Dex
+NA,Blastoise-Mega,79,103,120,135,115,78,101.1,1.6,Water,NA,Mega Launcher,National Dex
+NA,Wishiwashi-School,45,140,130,140,135,30,78.6,8.2,Water,NA,Schooling,National Dex
+NA,Castform-Sunny,70,70,70,70,70,70,0.8,0.3,Fire,NA,Forecast,National Dex
+NA,Lopunny-Mega,65,136,94,54,96,135,28.3,1.3,Normal,Fighting,Scrappy,National Dex
+NA,Camerupt-Mega,70,120,100,145,105,20,320.5,2.5,Fire,Ground,Sheer Force,National Dex
+NA,Cramorant-Gorging,70,85,55,85,95,85,18,0.8,Flying,Water,Gulp Missile,PU
+NA,Kangaskhan-Mega,105,125,100,60,100,100,100,2.2,Normal,NA,Parental Bond,National Dex
+NA,Castform-Snowy,70,70,70,70,70,70,0.8,0.3,Ice,NA,Forecast,National Dex
+NA,Blastoise-Gmax,79,83,100,85,105,78,0,25,Water,NA,"Torrent, Rain Dish",National Dex
+NA,Tyranitar-Mega,100,164,150,95,120,71,255,2.5,Rock,Dark,Sand Stream,National Dex
+NA,Pidgeot-Mega,83,80,80,135,80,121,50.5,2.2,Normal,Flying,No Guard,National Dex
+NA,Garchomp-Mega,108,170,115,120,95,92,95,1.9,Dragon,Ground,Sand Force,National Dex
+NA,Minior-Meteor,60,60,100,60,100,60,40,0.3,Rock,Flying,Shields Down,National Dex
+NA,Ogerpon-Teal-Tera,80,120,84,60,96,110,39.8,1.2,Grass,NA,Embody Aspect (Teal),UU
+NA,Charizard-Mega-Y,78,104,78,159,115,100,100.5,1.7,Fire,Flying,Drought,National Dex
+NA,Gengar-Mega,60,65,80,170,95,130,40.5,1.4,Ghost,Poison,Shadow Tag,National Dex
+NA,Audino-Mega,103,60,126,80,126,50,32,1.5,Normal,Fairy,Healer,National Dex
+NA,Aerodactyl-Mega,80,135,85,70,95,150,79,2.1,Rock,Flying,Tough Claws,National Dex
+NA,Medicham-Mega,60,100,85,80,85,100,31.5,1.3,Fighting,Psychic,Pure Power,National Dex
+NA,Charizard-Mega-X,78,130,111,130,85,100,110.5,1.7,Fire,Dragon,Tough Claws,National Dex
+NA,Swampert-Mega,100,150,110,95,110,70,102,1.9,Water,Ground,Swift Swim,National Dex
+NA,Drednaw-Gmax,90,115,90,48,68,74,0,24,Water,Rock,"Strong Jaw, Shell Armor, Swift Swim",National Dex
+NA,Meowth-Gmax,40,45,35,40,40,90,0,33,Normal,NA,"Pickup, Technician, Unnerve",National Dex
+NA,Palafin-Hero,100,160,97,106,87,100,97.4,1.8,Water,NA,Zero to Hero,Uber
+NA,Banette-Mega,64,165,75,93,83,75,13,1.2,Ghost,NA,Prankster,National Dex
+NA,Centiskorch-Gmax,100,115,65,90,90,65,0,75,Fire,Bug,"Flash Fire, White Smoke, Flame Body",National Dex
+NA,Alcremie-Gmax,65,60,75,110,121,64,0,30,Fairy,NA,"Sweet Veil, Aroma Veil",National Dex
+NA,Necrozma-Ultra,97,167,97,167,97,129,230,7.5,Psychic,Dragon,Neuroforce,National Dex
+NA,Mawile-Mega,50,105,125,55,95,50,23.5,1,Steel,Fairy,Huge Power,National Dex
+NA,Machamp-Gmax,90,130,80,65,85,55,0,25,Fighting,NA,"Guts, No Guard, Steadfast",National Dex
+NA,Lucario-Mega,70,145,88,140,70,112,57.5,1.3,Fighting,Steel,Adaptability,National Dex
+NA,Castform-Rainy,70,70,70,70,70,70,0.8,0.3,Water,NA,Forecast,National Dex
+NA,Latios-Mega,80,130,100,160,120,110,70,2.3,Dragon,Psychic,Levitate,National Dex
+NA,Toxtricity-Low-Key-Gmax,75,98,70,114,70,75,0,24,Electric,Poison,"Punk Rock, Minus, Technician",National Dex
+NA,Mewtwo-Mega-X,106,190,100,154,100,130,127,2.3,Psychic,Fighting,Steadfast,National Dex
+NA,Duraludon-Gmax,70,95,115,120,60,115,49,1.2,Dark,NA,Magic Bounce,National Dex
+NA,Cherrim-Sunshine,70,60,70,87,78,85,9.3,0.5,Grass,NA,Flower Gift,National Dex
+NA,Glalie-Mega,80,120,80,120,80,100,350.2,2.1,Ice,NA,Refrigerate,National Dex
+NA,Kingler-Gmax,55,130,115,50,50,75,0,19,Water,NA,"Hyper Cutter, Shell Armor, Sheer Force",National Dex
+NA,Copperajah-Gmax,122,130,69,80,69,30,0,23,Steel,NA,"Sheer Force, Heavy Metal",National Dex
+NA,Eevee-Gmax,55,55,50,45,65,55,0,18,Normal,NA,"Run Away, Adaptability, Anticipation",National Dex
+NA,Toxtricity-Gmax,75,98,70,114,70,75,0,24,Electric,Poison,"Punk Rock, Plus, Technician",National Dex
+NA,Mimikyu-Busted-Totem,55,90,80,50,105,96,2.8,0.4,Ghost,Fairy,Disguise,National Dex
+NA,Sableye-Mega,50,85,125,85,115,20,161,0.5,Dark,Ghost,Magic Bounce,National Dex
+NA,Flapple-Gmax,70,110,80,95,60,70,0,24,Grass,Dragon,"Ripen, Gluttony, Hustle",National Dex
+NA,Salamence-Mega,95,145,130,120,90,120,112.6,1.8,Dragon,Flying,Aerilate,National Dex
+NA,Slowbro-Mega,95,75,180,130,80,30,120,2,Water,Psychic,Shell Armor,National Dex
+NA,Garbodor-Gmax,80,95,82,60,82,75,0,21,Poison,NA,"Stench, Weak Armor, Aftermath",National Dex
+NA,Aggron-Mega,70,140,230,60,80,50,395,2.2,Steel,NA,Filter,National Dex
+NA,Latias-Mega,80,100,120,140,150,110,52,1.8,Dragon,Psychic,Levitate,National Dex
+NA,Cinderace-Gmax,80,116,75,65,75,119,0,27,Fire,NA,"Blaze, Libero",National Dex
+NA,Hatterene-Gmax,57,90,95,136,103,29,0,26,Psychic,Fairy,"Healer, Anticipation, Magic Bounce",National Dex
+NA,Butterfree-Gmax,60,45,50,90,80,70,0,17,Bug,Flying,"Compound Eyes, Tinted Lens",National Dex
+NA,Abomasnow-Mega,90,132,105,132,105,30,185,2.7,Grass,Ice,Snow Warning,National Dex
+NA,Altaria-Mega,75,110,110,110,105,80,20.6,1.5,Dragon,Fairy,Pixilate,National Dex
+NA,Groudon-Primal,100,180,160,150,90,90,999.7,5,Ground,Fire,Desolate Land,National Dex
+NA,Steelix-Mega,75,125,230,55,95,30,740,10.5,Steel,Ground,Sand Force,National Dex
+NA,Zygarde-Complete,216,100,121,91,95,85,610,4.5,Dragon,Ground,Power Construct,National Dex
+NA,Houndoom-Mega,75,90,90,140,90,115,49.5,1.9,Dark,Fire,Solar Power,National Dex
+NA,Sharpedo-Mega,70,140,70,110,65,105,130.3,2.5,Water,Dark,Strong Jaw,National Dex
+NA,Alakazam-Mega,55,50,65,175,105,150,48,1.2,Psychic,NA,Trace,National Dex
+NA,Rillaboom-Gmax,100,125,90,60,70,85,0,28,Grass,NA,"Overgrow, Grassy Surge",National Dex
+NA,Mewtwo-Mega-Y,106,150,70,194,120,140,33,1.5,Psychic,NA,Insomnia,National Dex
+NA,Corviknight-Gmax,98,87,105,53,85,67,0,14,Flying,Steel,"Pressure, Unnerve, Mirror Armor",National Dex
+NA,Venusaur-Gmax,80,82,83,100,100,80,0,24,Grass,Poison,"Overgrow, Chlorophyll",National Dex
+NA,Snorlax-Gmax,160,110,65,65,110,30,0,35,Normal,NA,"Immunity, Thick Fat, Gluttony",National Dex
+NA,Darmanitan-Zen,105,30,105,140,105,55,92.9,1.3,Fire,Psychic,Zen Mode,National Dex
+NA,Sceptile-Mega,70,110,75,145,85,145,55.2,1.9,Grass,Dragon,Lightning Rod,National Dex
+NA,Urshifu-Rapid-Strike-Gmax,100,130,100,63,60,97,0,26,Fighting,Water,Unseen Fist,National Dex
+NA,Meloetta-Pirouette,100,128,90,77,77,128,6.5,0.6,Normal,Fighting,Serene Grace,NUBL
+NA,Inteleon-Gmax,70,85,65,125,65,120,0,40,Water,NA,"Torrent, Sniper",National Dex
+NA,Kyogre-Primal,100,150,90,180,160,90,430,9.8,Water,NA,Primordial Sea,National Dex
+NA,Cramorant-Gulping,70,85,55,85,95,85,18,0.8,Flying,Water,Gulp Missile,PU
+NA,Appletun-Gmax,110,85,80,100,80,30,0,24,Grass,Dragon,"Ripen, Gluttony, Thick Fat",National Dex
