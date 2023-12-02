@@ -1,26 +1,5 @@
-ui <- fluidPage(
-  titlePanel("Pokémon Meta-Analyzer"),
-
-  tabsetPanel(
-    tabPanel("Table",
-             DTOutput("pokemonTable")),
-    tabPanel("Analysis",
-             sidebarLayout(
-               sidebarPanel(
-                 checkboxGroupInput("selectedRankings", "Select Rankings:",
-                                    choices = unique(pokemon_data$Formats),
-                                    selected = c())
-               ),
-               mainPanel(
-                 plotOutput("scatterPlot"),
-                 textOutput("predictionOutput")
-               )
-             )
-    )
-  )
-)
-
 server <- function(input, output) {
+
   output$pokemonTable <- renderDT({
     datatable(pokemon_data, options = list(pageLength = 10), rownames = FALSE)
   })
@@ -61,5 +40,3 @@ server <- function(input, output) {
     glimpse(national_dex_prediction)
   })
 }
-
-shinyApp(ui = ui, server = server)

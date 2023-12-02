@@ -1,4 +1,4 @@
-# global.R to handle dependencies and source any external files
+# global.R to handle dependencies
 library(DT)
 library(shiny)
 library(cluster)
@@ -8,4 +8,5 @@ library(rpart)
 library(ggplot2)
 library(lattice)
 
+# and source any external files
 source("data.R")
