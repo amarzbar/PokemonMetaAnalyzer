@@ -13,7 +13,7 @@ Showcasing best Shiny practices as well as frontend implementation
      - create `resources` folder to hold all data files and external scripts
      - create `/www` folder to contain `stylesheet.css` and `script.js`
      - create `mod` folder to contain all app modules 
-     - create `doc` folder to contain all dev-related documentation
+     - create `docs` folder to contain all dev-related documentation
 
 ### Feature List (Working) :spiral_notepad:
 
@@ -51,7 +51,7 @@ Showcasing best Shiny practices as well as frontend implementation
 │   │   ├── smogonparse_extra
 │   │   └── smogontiering
 │   └── mod
-├── doc
+├── docs
 ├── README.md
 └── .gitignore
 ```
