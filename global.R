@@ -9,4 +9,4 @@ library(ggplot2)
 library(lattice)
 
 # and source any external files
-source("data.R")
+source("src/data.R")
